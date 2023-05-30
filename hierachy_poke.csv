@@ -1,0 +1,1029 @@
+,name,generation,status,type_1,total_points,hp,attack,defense,sp_attack,sp_defense,speed,cluster,cluster_name
+0,Bulbasaur,1,Normal,Grass,318.0,45.0,49.0,49.0,65.0,65.0,45.0,3,No potential for competitive
+1,Ivysaur,1,Normal,Grass,405.0,60.0,62.0,63.0,80.0,80.0,60.0,0,Fragile sweeper
+2,Venusaur,1,Normal,Grass,525.0,80.0,82.0,83.0,100.0,100.0,80.0,2,Best overall
+3,Mega Venusaur,1,Normal,Grass,625.0,80.0,100.0,123.0,122.0,120.0,80.0,2,Best overall
+4,Charmander,1,Normal,Fire,309.0,39.0,52.0,43.0,60.0,50.0,65.0,3,No potential for competitive
+5,Charmeleon,1,Normal,Fire,405.0,58.0,64.0,58.0,80.0,65.0,80.0,0,Fragile sweeper
+6,Charizard,1,Normal,Fire,534.0,78.0,84.0,78.0,109.0,85.0,100.0,2,Best overall
+7,Mega Charizard X,1,Normal,Fire,634.0,78.0,130.0,111.0,130.0,85.0,100.0,2,Best overall
+8,Mega Charizard Y,1,Normal,Fire,634.0,78.0,104.0,78.0,159.0,115.0,100.0,2,Best overall
+9,Squirtle,1,Normal,Water,314.0,44.0,48.0,65.0,50.0,64.0,43.0,3,No potential for competitive
+10,Wartortle,1,Normal,Water,405.0,59.0,63.0,80.0,65.0,80.0,58.0,1,Slow yet bulky
+11,Blastoise,1,Normal,Water,530.0,79.0,83.0,100.0,85.0,105.0,78.0,1,Slow yet bulky
+12,Mega Blastoise,1,Normal,Water,630.0,79.0,103.0,120.0,135.0,115.0,78.0,2,Best overall
+13,Caterpie,1,Normal,Bug,195.0,45.0,30.0,35.0,20.0,20.0,45.0,3,No potential for competitive
+14,Metapod,1,Normal,Bug,205.0,50.0,20.0,55.0,25.0,25.0,30.0,3,No potential for competitive
+15,Butterfree,1,Normal,Bug,395.0,60.0,45.0,50.0,90.0,80.0,70.0,0,Fragile sweeper
+16,Weedle,1,Normal,Bug,195.0,40.0,35.0,30.0,20.0,20.0,50.0,3,No potential for competitive
+17,Kakuna,1,Normal,Bug,205.0,45.0,25.0,50.0,25.0,25.0,35.0,3,No potential for competitive
+18,Beedrill,1,Normal,Bug,395.0,65.0,90.0,40.0,45.0,80.0,75.0,0,Fragile sweeper
+19,Mega Beedrill,1,Normal,Bug,495.0,65.0,150.0,40.0,15.0,80.0,145.0,0,Fragile sweeper
+20,Pidgey,1,Normal,Normal,251.0,40.0,45.0,40.0,35.0,35.0,56.0,3,No potential for competitive
+21,Pidgeotto,1,Normal,Normal,349.0,63.0,60.0,55.0,50.0,50.0,71.0,3,No potential for competitive
+22,Pidgeot,1,Normal,Normal,479.0,83.0,80.0,75.0,70.0,70.0,101.0,0,Fragile sweeper
+23,Mega Pidgeot,1,Normal,Normal,579.0,83.0,80.0,80.0,135.0,80.0,121.0,2,Best overall
+24,Rattata,1,Normal,Normal,253.0,30.0,56.0,35.0,25.0,35.0,72.0,3,No potential for competitive
+25,Alolan Rattata,1,Normal,Dark,253.0,30.0,56.0,35.0,25.0,35.0,72.0,3,No potential for competitive
+26,Raticate,1,Normal,Normal,413.0,55.0,81.0,60.0,50.0,70.0,97.0,0,Fragile sweeper
+27,Alolan Raticate,1,Normal,Dark,413.0,75.0,71.0,70.0,40.0,80.0,77.0,0,Fragile sweeper
+28,Spearow,1,Normal,Normal,262.0,40.0,60.0,30.0,31.0,31.0,70.0,3,No potential for competitive
+29,Fearow,1,Normal,Normal,442.0,65.0,90.0,65.0,61.0,61.0,100.0,0,Fragile sweeper
+30,Ekans,1,Normal,Poison,288.0,35.0,60.0,44.0,40.0,54.0,55.0,3,No potential for competitive
+31,Arbok,1,Normal,Poison,448.0,60.0,95.0,69.0,65.0,79.0,80.0,0,Fragile sweeper
+32,Pikachu,1,Normal,Electric,320.0,35.0,55.0,40.0,50.0,50.0,90.0,3,No potential for competitive
+33,Partner Pikachu,1,Normal,Electric,430.0,45.0,80.0,50.0,75.0,60.0,120.0,0,Fragile sweeper
+34,Raichu,1,Normal,Electric,485.0,60.0,90.0,55.0,90.0,80.0,110.0,0,Fragile sweeper
+35,Alolan Raichu,1,Normal,Electric,485.0,60.0,85.0,50.0,95.0,85.0,110.0,0,Fragile sweeper
+36,Sandshrew,1,Normal,Ground,300.0,50.0,75.0,85.0,20.0,30.0,40.0,3,No potential for competitive
+37,Alolan Sandshrew,1,Normal,Ice,300.0,50.0,75.0,90.0,10.0,35.0,40.0,3,No potential for competitive
+38,Sandslash,1,Normal,Ground,450.0,75.0,100.0,110.0,45.0,55.0,65.0,1,Slow yet bulky
+39,Alolan Sandslash,1,Normal,Ice,450.0,75.0,100.0,120.0,25.0,65.0,65.0,1,Slow yet bulky
+40,Nidoran♀,1,Normal,Poison,275.0,55.0,47.0,52.0,40.0,40.0,41.0,3,No potential for competitive
+41,Nidorina,1,Normal,Poison,365.0,70.0,62.0,67.0,55.0,55.0,56.0,3,No potential for competitive
+42,Nidoqueen,1,Normal,Poison,505.0,90.0,92.0,87.0,75.0,85.0,76.0,1,Slow yet bulky
+43,Nidoran♂,1,Normal,Poison,273.0,46.0,57.0,40.0,40.0,40.0,50.0,3,No potential for competitive
+44,Nidorino,1,Normal,Poison,365.0,61.0,72.0,57.0,55.0,55.0,65.0,3,No potential for competitive
+45,Nidoking,1,Normal,Poison,505.0,81.0,102.0,77.0,85.0,75.0,85.0,0,Fragile sweeper
+46,Clefairy,1,Normal,Fairy,323.0,70.0,45.0,48.0,60.0,65.0,35.0,3,No potential for competitive
+47,Clefable,1,Normal,Fairy,483.0,95.0,70.0,73.0,95.0,90.0,60.0,1,Slow yet bulky
+48,Vulpix,1,Normal,Fire,299.0,38.0,41.0,40.0,50.0,65.0,65.0,3,No potential for competitive
+49,Alolan Vulpix,1,Normal,Ice,299.0,38.0,41.0,40.0,50.0,65.0,65.0,3,No potential for competitive
+50,Ninetales,1,Normal,Fire,505.0,73.0,76.0,75.0,81.0,100.0,100.0,0,Fragile sweeper
+51,Alolan Ninetales,1,Normal,Ice,505.0,73.0,67.0,75.0,81.0,100.0,109.0,0,Fragile sweeper
+52,Jigglypuff,1,Normal,Normal,270.0,115.0,45.0,20.0,45.0,25.0,20.0,3,No potential for competitive
+53,Wigglytuff,1,Normal,Normal,435.0,140.0,70.0,45.0,85.0,50.0,45.0,0,Fragile sweeper
+54,Zubat,1,Normal,Poison,245.0,40.0,45.0,35.0,30.0,40.0,55.0,3,No potential for competitive
+55,Golbat,1,Normal,Poison,455.0,75.0,80.0,70.0,65.0,75.0,90.0,0,Fragile sweeper
+56,Oddish,1,Normal,Grass,320.0,45.0,50.0,55.0,75.0,65.0,30.0,3,No potential for competitive
+57,Gloom,1,Normal,Grass,395.0,60.0,65.0,70.0,85.0,75.0,40.0,1,Slow yet bulky
+58,Vileplume,1,Normal,Grass,490.0,75.0,80.0,85.0,110.0,90.0,50.0,1,Slow yet bulky
+59,Paras,1,Normal,Bug,285.0,35.0,70.0,55.0,45.0,55.0,25.0,3,No potential for competitive
+60,Parasect,1,Normal,Bug,405.0,60.0,95.0,80.0,60.0,80.0,30.0,1,Slow yet bulky
+61,Venonat,1,Normal,Bug,305.0,60.0,55.0,50.0,40.0,55.0,45.0,3,No potential for competitive
+62,Venomoth,1,Normal,Bug,450.0,70.0,65.0,60.0,90.0,75.0,90.0,0,Fragile sweeper
+63,Diglett,1,Normal,Ground,265.0,10.0,55.0,25.0,35.0,45.0,95.0,3,No potential for competitive
+64,Alolan Diglett,1,Normal,Ground,265.0,10.0,55.0,30.0,35.0,45.0,90.0,3,No potential for competitive
+65,Dugtrio,1,Normal,Ground,425.0,35.0,100.0,50.0,50.0,70.0,120.0,0,Fragile sweeper
+66,Alolan Dugtrio,1,Normal,Ground,425.0,35.0,100.0,60.0,50.0,70.0,110.0,0,Fragile sweeper
+67,Meowth,1,Normal,Normal,290.0,40.0,45.0,35.0,40.0,40.0,90.0,3,No potential for competitive
+68,Alolan Meowth,1,Normal,Dark,290.0,40.0,35.0,35.0,50.0,40.0,90.0,3,No potential for competitive
+69,Galarian Meowth,1,Normal,Steel,290.0,50.0,65.0,55.0,40.0,40.0,40.0,3,No potential for competitive
+70,Persian,1,Normal,Normal,440.0,65.0,70.0,60.0,65.0,65.0,115.0,0,Fragile sweeper
+71,Alolan Persian,1,Normal,Dark,440.0,65.0,60.0,60.0,75.0,65.0,115.0,0,Fragile sweeper
+72,Psyduck,1,Normal,Water,320.0,50.0,52.0,48.0,65.0,50.0,55.0,3,No potential for competitive
+73,Golduck,1,Normal,Water,500.0,80.0,82.0,78.0,95.0,80.0,85.0,0,Fragile sweeper
+74,Mankey,1,Normal,Fighting,305.0,40.0,80.0,35.0,35.0,45.0,70.0,3,No potential for competitive
+75,Primeape,1,Normal,Fighting,455.0,65.0,105.0,60.0,60.0,70.0,95.0,0,Fragile sweeper
+76,Growlithe,1,Normal,Fire,350.0,55.0,70.0,45.0,70.0,50.0,60.0,3,No potential for competitive
+77,Arcanine,1,Normal,Fire,555.0,90.0,110.0,80.0,100.0,80.0,95.0,2,Best overall
+78,Poliwag,1,Normal,Water,300.0,40.0,50.0,40.0,40.0,40.0,90.0,3,No potential for competitive
+79,Poliwhirl,1,Normal,Water,385.0,65.0,65.0,65.0,50.0,50.0,90.0,0,Fragile sweeper
+80,Poliwrath,1,Normal,Water,510.0,90.0,95.0,95.0,70.0,90.0,70.0,1,Slow yet bulky
+81,Abra,1,Normal,Psychic,310.0,25.0,20.0,15.0,105.0,55.0,90.0,3,No potential for competitive
+82,Kadabra,1,Normal,Psychic,400.0,40.0,35.0,30.0,120.0,70.0,105.0,0,Fragile sweeper
+83,Alakazam,1,Normal,Psychic,500.0,55.0,50.0,45.0,135.0,95.0,120.0,0,Fragile sweeper
+84,Mega Alakazam,1,Normal,Psychic,600.0,55.0,50.0,65.0,175.0,105.0,150.0,2,Best overall
+85,Machop,1,Normal,Fighting,305.0,70.0,80.0,50.0,35.0,35.0,35.0,3,No potential for competitive
+86,Machoke,1,Normal,Fighting,405.0,80.0,100.0,70.0,50.0,60.0,45.0,1,Slow yet bulky
+87,Machamp,1,Normal,Fighting,505.0,90.0,130.0,80.0,65.0,85.0,55.0,1,Slow yet bulky
+88,Bellsprout,1,Normal,Grass,300.0,50.0,75.0,35.0,70.0,30.0,40.0,3,No potential for competitive
+89,Weepinbell,1,Normal,Grass,390.0,65.0,90.0,50.0,85.0,45.0,55.0,0,Fragile sweeper
+90,Victreebel,1,Normal,Grass,490.0,80.0,105.0,65.0,100.0,70.0,70.0,0,Fragile sweeper
+91,Tentacool,1,Normal,Water,335.0,40.0,40.0,35.0,50.0,100.0,70.0,3,No potential for competitive
+92,Tentacruel,1,Normal,Water,515.0,80.0,70.0,65.0,80.0,120.0,100.0,0,Fragile sweeper
+93,Geodude,1,Normal,Rock,300.0,40.0,80.0,100.0,30.0,30.0,20.0,3,No potential for competitive
+94,Alolan Geodude,1,Normal,Rock,300.0,40.0,80.0,100.0,30.0,30.0,20.0,3,No potential for competitive
+95,Graveler,1,Normal,Rock,390.0,55.0,95.0,115.0,45.0,45.0,35.0,1,Slow yet bulky
+96,Alolan Graveler,1,Normal,Rock,390.0,55.0,95.0,115.0,45.0,45.0,35.0,1,Slow yet bulky
+97,Golem,1,Normal,Rock,495.0,80.0,120.0,130.0,55.0,65.0,45.0,1,Slow yet bulky
+98,Alolan Golem,1,Normal,Rock,495.0,80.0,120.0,130.0,55.0,65.0,45.0,1,Slow yet bulky
+99,Ponyta,1,Normal,Fire,410.0,50.0,85.0,55.0,65.0,65.0,90.0,0,Fragile sweeper
+100,Galarian Ponyta,1,Normal,Psychic,410.0,50.0,85.0,55.0,65.0,65.0,90.0,0,Fragile sweeper
+101,Rapidash,1,Normal,Fire,500.0,65.0,100.0,70.0,80.0,80.0,105.0,0,Fragile sweeper
+102,Galarian Rapidash,1,Normal,Psychic,500.0,65.0,100.0,70.0,80.0,80.0,105.0,0,Fragile sweeper
+103,Slowpoke,1,Normal,Water,315.0,90.0,65.0,65.0,40.0,40.0,15.0,3,No potential for competitive
+104,Slowbro,1,Normal,Water,490.0,95.0,75.0,110.0,100.0,80.0,30.0,1,Slow yet bulky
+105,Mega Slowbro,1,Normal,Water,590.0,95.0,75.0,180.0,130.0,80.0,30.0,1,Slow yet bulky
+106,Magnemite,1,Normal,Electric,325.0,25.0,35.0,70.0,95.0,55.0,45.0,3,No potential for competitive
+107,Magneton,1,Normal,Electric,465.0,50.0,60.0,95.0,120.0,70.0,70.0,0,Fragile sweeper
+108,Farfetch'd,1,Normal,Normal,377.0,52.0,90.0,55.0,58.0,62.0,60.0,0,Fragile sweeper
+109,Galarian Farfetch'd,1,Normal,Fighting,377.0,52.0,95.0,55.0,58.0,62.0,55.0,0,Fragile sweeper
+110,Doduo,1,Normal,Normal,310.0,35.0,85.0,45.0,35.0,35.0,75.0,3,No potential for competitive
+111,Dodrio,1,Normal,Normal,470.0,60.0,110.0,70.0,60.0,60.0,110.0,0,Fragile sweeper
+112,Seel,1,Normal,Water,325.0,65.0,45.0,55.0,45.0,70.0,45.0,3,No potential for competitive
+113,Dewgong,1,Normal,Water,475.0,90.0,70.0,80.0,70.0,95.0,70.0,1,Slow yet bulky
+114,Grimer,1,Normal,Poison,325.0,80.0,80.0,50.0,40.0,50.0,25.0,3,No potential for competitive
+115,Alolan Grimer,1,Normal,Poison,325.0,80.0,80.0,50.0,40.0,50.0,25.0,3,No potential for competitive
+116,Muk,1,Normal,Poison,500.0,105.0,105.0,75.0,65.0,100.0,50.0,1,Slow yet bulky
+117,Alolan Muk,1,Normal,Poison,500.0,105.0,105.0,75.0,65.0,100.0,50.0,1,Slow yet bulky
+118,Shellder,1,Normal,Water,305.0,30.0,65.0,100.0,45.0,25.0,40.0,3,No potential for competitive
+119,Cloyster,1,Normal,Water,525.0,50.0,95.0,180.0,85.0,45.0,70.0,1,Slow yet bulky
+120,Gastly,1,Normal,Ghost,310.0,30.0,35.0,30.0,100.0,35.0,80.0,3,No potential for competitive
+121,Haunter,1,Normal,Ghost,405.0,45.0,50.0,45.0,115.0,55.0,95.0,0,Fragile sweeper
+122,Gengar,1,Normal,Ghost,500.0,60.0,65.0,60.0,130.0,75.0,110.0,0,Fragile sweeper
+123,Mega Gengar,1,Normal,Ghost,600.0,60.0,65.0,80.0,170.0,95.0,130.0,2,Best overall
+124,Onix,1,Normal,Rock,385.0,35.0,45.0,160.0,30.0,45.0,70.0,3,No potential for competitive
+125,Drowzee,1,Normal,Psychic,328.0,60.0,48.0,45.0,43.0,90.0,42.0,3,No potential for competitive
+126,Hypno,1,Normal,Psychic,483.0,85.0,73.0,70.0,73.0,115.0,67.0,1,Slow yet bulky
+127,Krabby,1,Normal,Water,325.0,30.0,105.0,90.0,25.0,25.0,50.0,3,No potential for competitive
+128,Kingler,1,Normal,Water,475.0,55.0,130.0,115.0,50.0,50.0,75.0,1,Slow yet bulky
+129,Voltorb,1,Normal,Electric,330.0,40.0,30.0,50.0,55.0,55.0,100.0,3,No potential for competitive
+130,Electrode,1,Normal,Electric,490.0,60.0,50.0,70.0,80.0,80.0,150.0,0,Fragile sweeper
+131,Exeggcute,1,Normal,Grass,325.0,60.0,40.0,80.0,60.0,45.0,40.0,3,No potential for competitive
+132,Exeggutor,1,Normal,Grass,530.0,95.0,95.0,85.0,125.0,75.0,55.0,1,Slow yet bulky
+133,Alolan Exeggutor,1,Normal,Grass,530.0,95.0,105.0,85.0,125.0,75.0,45.0,1,Slow yet bulky
+134,Cubone,1,Normal,Ground,320.0,50.0,50.0,95.0,40.0,50.0,35.0,3,No potential for competitive
+135,Marowak,1,Normal,Ground,425.0,60.0,80.0,110.0,50.0,80.0,45.0,1,Slow yet bulky
+136,Alolan Marowak,1,Normal,Fire,425.0,60.0,80.0,110.0,50.0,80.0,45.0,1,Slow yet bulky
+137,Hitmonlee,1,Normal,Fighting,455.0,50.0,120.0,53.0,35.0,110.0,87.0,0,Fragile sweeper
+138,Hitmonchan,1,Normal,Fighting,455.0,50.0,105.0,79.0,35.0,110.0,76.0,1,Slow yet bulky
+139,Lickitung,1,Normal,Normal,385.0,90.0,55.0,75.0,60.0,75.0,30.0,1,Slow yet bulky
+140,Koffing,1,Normal,Poison,340.0,40.0,65.0,95.0,60.0,45.0,35.0,3,No potential for competitive
+141,Weezing,1,Normal,Poison,490.0,65.0,90.0,120.0,85.0,70.0,60.0,1,Slow yet bulky
+142,Galarian Weezing,1,Normal,Poison,490.0,65.0,90.0,120.0,85.0,70.0,60.0,1,Slow yet bulky
+143,Rhyhorn,1,Normal,Ground,345.0,80.0,85.0,95.0,30.0,30.0,25.0,3,No potential for competitive
+144,Rhydon,1,Normal,Ground,485.0,105.0,130.0,120.0,45.0,45.0,40.0,1,Slow yet bulky
+145,Chansey,1,Normal,Normal,450.0,250.0,5.0,5.0,35.0,105.0,50.0,0,Fragile sweeper
+146,Tangela,1,Normal,Grass,435.0,65.0,55.0,115.0,100.0,40.0,60.0,1,Slow yet bulky
+147,Kangaskhan,1,Normal,Normal,490.0,105.0,95.0,80.0,40.0,80.0,90.0,0,Fragile sweeper
+148,Mega Kangaskhan,1,Normal,Normal,590.0,105.0,125.0,100.0,60.0,100.0,100.0,2,Best overall
+149,Horsea,1,Normal,Water,295.0,30.0,40.0,70.0,70.0,25.0,60.0,3,No potential for competitive
+150,Seadra,1,Normal,Water,440.0,55.0,65.0,95.0,95.0,45.0,85.0,0,Fragile sweeper
+151,Goldeen,1,Normal,Water,320.0,45.0,67.0,60.0,35.0,50.0,63.0,3,No potential for competitive
+152,Seaking,1,Normal,Water,450.0,80.0,92.0,65.0,65.0,80.0,68.0,0,Fragile sweeper
+153,Staryu,1,Normal,Water,340.0,30.0,45.0,55.0,70.0,55.0,85.0,3,No potential for competitive
+154,Starmie,1,Normal,Water,520.0,60.0,75.0,85.0,100.0,85.0,115.0,0,Fragile sweeper
+155,Mr. Mime,1,Normal,Psychic,460.0,40.0,45.0,65.0,100.0,120.0,90.0,0,Fragile sweeper
+156,Galarian Mr. Mime,1,Normal,Psychic,460.0,50.0,65.0,65.0,90.0,90.0,100.0,0,Fragile sweeper
+157,Scyther,1,Normal,Bug,500.0,70.0,110.0,80.0,55.0,80.0,105.0,0,Fragile sweeper
+158,Jynx,1,Normal,Ice,455.0,65.0,50.0,35.0,115.0,95.0,95.0,0,Fragile sweeper
+159,Electabuzz,1,Normal,Electric,490.0,65.0,83.0,57.0,95.0,85.0,105.0,0,Fragile sweeper
+160,Magmar,1,Normal,Fire,495.0,65.0,95.0,57.0,100.0,85.0,93.0,0,Fragile sweeper
+161,Pinsir,1,Normal,Bug,500.0,65.0,125.0,100.0,55.0,70.0,85.0,1,Slow yet bulky
+162,Mega Pinsir,1,Normal,Bug,600.0,65.0,155.0,120.0,65.0,90.0,105.0,2,Best overall
+163,Tauros,1,Normal,Normal,490.0,75.0,100.0,95.0,40.0,70.0,110.0,0,Fragile sweeper
+164,Magikarp,1,Normal,Water,200.0,20.0,10.0,55.0,15.0,20.0,80.0,3,No potential for competitive
+165,Gyarados,1,Normal,Water,540.0,95.0,125.0,79.0,60.0,100.0,81.0,2,Best overall
+166,Mega Gyarados,1,Normal,Water,640.0,95.0,155.0,109.0,70.0,130.0,81.0,2,Best overall
+167,Lapras,1,Normal,Water,535.0,130.0,85.0,80.0,85.0,95.0,60.0,1,Slow yet bulky
+168,Ditto,1,Normal,Normal,288.0,48.0,48.0,48.0,48.0,48.0,48.0,3,No potential for competitive
+169,Eevee,1,Normal,Normal,325.0,55.0,55.0,50.0,45.0,65.0,55.0,3,No potential for competitive
+170,Partner Eevee,1,Normal,Normal,435.0,65.0,75.0,70.0,65.0,85.0,75.0,0,Fragile sweeper
+171,Vaporeon,1,Normal,Water,525.0,130.0,65.0,60.0,110.0,95.0,65.0,2,Best overall
+172,Jolteon,1,Normal,Electric,525.0,65.0,65.0,60.0,110.0,95.0,130.0,0,Fragile sweeper
+173,Flareon,1,Normal,Fire,525.0,65.0,130.0,60.0,95.0,110.0,65.0,2,Best overall
+174,Porygon,1,Normal,Normal,395.0,65.0,60.0,70.0,85.0,75.0,40.0,1,Slow yet bulky
+175,Omanyte,1,Normal,Rock,355.0,35.0,40.0,100.0,90.0,55.0,35.0,3,No potential for competitive
+176,Omastar,1,Normal,Rock,495.0,70.0,60.0,125.0,115.0,70.0,55.0,1,Slow yet bulky
+177,Kabuto,1,Normal,Rock,355.0,30.0,80.0,90.0,55.0,45.0,55.0,3,No potential for competitive
+178,Kabutops,1,Normal,Rock,495.0,60.0,115.0,105.0,65.0,70.0,80.0,1,Slow yet bulky
+179,Aerodactyl,1,Normal,Rock,515.0,80.0,105.0,65.0,60.0,75.0,130.0,0,Fragile sweeper
+180,Mega Aerodactyl,1,Normal,Rock,615.0,80.0,135.0,85.0,70.0,95.0,150.0,2,Best overall
+181,Snorlax,1,Normal,Normal,540.0,160.0,110.0,65.0,65.0,110.0,30.0,1,Slow yet bulky
+182,Articuno,1,Sub Legendary,Ice,580.0,90.0,85.0,100.0,95.0,125.0,85.0,2,Best overall
+183,Zapdos,1,Sub Legendary,Electric,580.0,90.0,90.0,85.0,125.0,90.0,100.0,2,Best overall
+184,Moltres,1,Sub Legendary,Fire,580.0,90.0,100.0,90.0,125.0,85.0,90.0,2,Best overall
+185,Dratini,1,Normal,Dragon,300.0,41.0,64.0,45.0,50.0,50.0,50.0,3,No potential for competitive
+186,Dragonair,1,Normal,Dragon,420.0,61.0,84.0,65.0,70.0,70.0,70.0,0,Fragile sweeper
+187,Dragonite,1,Normal,Dragon,600.0,91.0,134.0,95.0,100.0,100.0,80.0,2,Best overall
+188,Mewtwo,1,Legendary,Psychic,680.0,106.0,110.0,90.0,154.0,90.0,130.0,2,Best overall
+189,Mega Mewtwo X,1,Legendary,Psychic,780.0,106.0,190.0,100.0,154.0,100.0,130.0,2,Best overall
+190,Mega Mewtwo Y,1,Legendary,Psychic,780.0,106.0,150.0,70.0,194.0,120.0,140.0,2,Best overall
+191,Mew,1,Mythical,Psychic,600.0,100.0,100.0,100.0,100.0,100.0,100.0,2,Best overall
+192,Chikorita,2,Normal,Grass,318.0,45.0,49.0,65.0,49.0,65.0,45.0,3,No potential for competitive
+193,Bayleef,2,Normal,Grass,405.0,60.0,62.0,80.0,63.0,80.0,60.0,1,Slow yet bulky
+194,Meganium,2,Normal,Grass,525.0,80.0,82.0,100.0,83.0,100.0,80.0,1,Slow yet bulky
+195,Cyndaquil,2,Normal,Fire,309.0,39.0,52.0,43.0,60.0,50.0,65.0,3,No potential for competitive
+196,Quilava,2,Normal,Fire,405.0,58.0,64.0,58.0,80.0,65.0,80.0,0,Fragile sweeper
+197,Typhlosion,2,Normal,Fire,534.0,78.0,84.0,78.0,109.0,85.0,100.0,2,Best overall
+198,Totodile,2,Normal,Water,314.0,50.0,65.0,64.0,44.0,48.0,43.0,3,No potential for competitive
+199,Croconaw,2,Normal,Water,405.0,65.0,80.0,80.0,59.0,63.0,58.0,1,Slow yet bulky
+200,Feraligatr,2,Normal,Water,530.0,85.0,105.0,100.0,79.0,83.0,78.0,1,Slow yet bulky
+201,Sentret,2,Normal,Normal,215.0,35.0,46.0,34.0,35.0,45.0,20.0,3,No potential for competitive
+202,Furret,2,Normal,Normal,415.0,85.0,76.0,64.0,45.0,55.0,90.0,0,Fragile sweeper
+203,Hoothoot,2,Normal,Normal,262.0,60.0,30.0,30.0,36.0,56.0,50.0,3,No potential for competitive
+204,Noctowl,2,Normal,Normal,452.0,100.0,50.0,50.0,86.0,96.0,70.0,0,Fragile sweeper
+205,Ledyba,2,Normal,Bug,265.0,40.0,20.0,30.0,40.0,80.0,55.0,3,No potential for competitive
+206,Ledian,2,Normal,Bug,390.0,55.0,35.0,50.0,55.0,110.0,85.0,0,Fragile sweeper
+207,Spinarak,2,Normal,Bug,250.0,40.0,60.0,40.0,40.0,40.0,30.0,3,No potential for competitive
+208,Ariados,2,Normal,Bug,400.0,70.0,90.0,70.0,60.0,70.0,40.0,1,Slow yet bulky
+209,Crobat,2,Normal,Poison,535.0,85.0,90.0,80.0,70.0,80.0,130.0,0,Fragile sweeper
+210,Chinchou,2,Normal,Water,330.0,75.0,38.0,38.0,56.0,56.0,67.0,3,No potential for competitive
+211,Lanturn,2,Normal,Water,460.0,125.0,58.0,58.0,76.0,76.0,67.0,0,Fragile sweeper
+212,Pichu,2,Normal,Electric,205.0,20.0,40.0,15.0,35.0,35.0,60.0,3,No potential for competitive
+213,Cleffa,2,Normal,Fairy,218.0,50.0,25.0,28.0,45.0,55.0,15.0,3,No potential for competitive
+214,Igglybuff,2,Normal,Normal,210.0,90.0,30.0,15.0,40.0,20.0,15.0,3,No potential for competitive
+215,Togepi,2,Normal,Fairy,245.0,35.0,20.0,65.0,40.0,65.0,20.0,3,No potential for competitive
+216,Togetic,2,Normal,Fairy,405.0,55.0,40.0,85.0,80.0,105.0,40.0,1,Slow yet bulky
+217,Natu,2,Normal,Psychic,320.0,40.0,50.0,45.0,70.0,45.0,70.0,3,No potential for competitive
+218,Xatu,2,Normal,Psychic,470.0,65.0,75.0,70.0,95.0,70.0,95.0,0,Fragile sweeper
+219,Mareep,2,Normal,Electric,280.0,55.0,40.0,40.0,65.0,45.0,35.0,3,No potential for competitive
+220,Flaaffy,2,Normal,Electric,365.0,70.0,55.0,55.0,80.0,60.0,45.0,3,No potential for competitive
+221,Ampharos,2,Normal,Electric,510.0,90.0,75.0,85.0,115.0,90.0,55.0,1,Slow yet bulky
+222,Mega Ampharos,2,Normal,Electric,610.0,90.0,95.0,105.0,165.0,110.0,45.0,2,Best overall
+223,Bellossom,2,Normal,Grass,490.0,75.0,80.0,95.0,90.0,100.0,50.0,1,Slow yet bulky
+224,Marill,2,Normal,Water,250.0,70.0,20.0,50.0,20.0,50.0,40.0,3,No potential for competitive
+225,Azumarill,2,Normal,Water,420.0,100.0,50.0,80.0,60.0,80.0,50.0,1,Slow yet bulky
+226,Sudowoodo,2,Normal,Rock,410.0,70.0,100.0,115.0,30.0,65.0,30.0,1,Slow yet bulky
+227,Politoed,2,Normal,Water,500.0,90.0,75.0,75.0,90.0,100.0,70.0,1,Slow yet bulky
+228,Hoppip,2,Normal,Grass,250.0,35.0,35.0,40.0,35.0,55.0,50.0,3,No potential for competitive
+229,Skiploom,2,Normal,Grass,340.0,55.0,45.0,50.0,45.0,65.0,80.0,3,No potential for competitive
+230,Jumpluff,2,Normal,Grass,460.0,75.0,55.0,70.0,55.0,95.0,110.0,0,Fragile sweeper
+231,Aipom,2,Normal,Normal,360.0,55.0,70.0,55.0,40.0,55.0,85.0,3,No potential for competitive
+232,Sunkern,2,Normal,Grass,180.0,30.0,30.0,30.0,30.0,30.0,30.0,3,No potential for competitive
+233,Sunflora,2,Normal,Grass,425.0,75.0,75.0,55.0,105.0,85.0,30.0,1,Slow yet bulky
+234,Yanma,2,Normal,Bug,390.0,65.0,65.0,45.0,75.0,45.0,95.0,0,Fragile sweeper
+235,Wooper,2,Normal,Water,210.0,55.0,45.0,45.0,25.0,25.0,15.0,3,No potential for competitive
+236,Quagsire,2,Normal,Water,430.0,95.0,85.0,85.0,65.0,65.0,35.0,1,Slow yet bulky
+237,Espeon,2,Normal,Psychic,525.0,65.0,65.0,60.0,130.0,95.0,110.0,0,Fragile sweeper
+238,Umbreon,2,Normal,Dark,525.0,95.0,65.0,110.0,60.0,130.0,65.0,1,Slow yet bulky
+239,Murkrow,2,Normal,Dark,405.0,60.0,85.0,42.0,85.0,42.0,91.0,0,Fragile sweeper
+240,Slowking,2,Normal,Water,490.0,95.0,75.0,80.0,100.0,110.0,30.0,1,Slow yet bulky
+241,Misdreavus,2,Normal,Ghost,435.0,60.0,60.0,60.0,85.0,85.0,85.0,0,Fragile sweeper
+242,Unown,2,Normal,Psychic,336.0,48.0,72.0,48.0,72.0,48.0,48.0,3,No potential for competitive
+243,Wobbuffet,2,Normal,Psychic,405.0,190.0,33.0,58.0,33.0,58.0,33.0,1,Slow yet bulky
+244,Girafarig,2,Normal,Normal,455.0,70.0,80.0,65.0,90.0,65.0,85.0,0,Fragile sweeper
+245,Pineco,2,Normal,Bug,290.0,50.0,65.0,90.0,35.0,35.0,15.0,3,No potential for competitive
+246,Forretress,2,Normal,Bug,465.0,75.0,90.0,140.0,60.0,60.0,40.0,1,Slow yet bulky
+247,Dunsparce,2,Normal,Normal,415.0,100.0,70.0,70.0,65.0,65.0,45.0,1,Slow yet bulky
+248,Gligar,2,Normal,Ground,430.0,65.0,75.0,105.0,35.0,65.0,85.0,1,Slow yet bulky
+249,Steelix,2,Normal,Steel,510.0,75.0,85.0,200.0,55.0,65.0,30.0,1,Slow yet bulky
+250,Mega Steelix,2,Normal,Steel,610.0,75.0,125.0,230.0,55.0,95.0,30.0,1,Slow yet bulky
+251,Snubbull,2,Normal,Fairy,300.0,60.0,80.0,50.0,40.0,40.0,30.0,3,No potential for competitive
+252,Granbull,2,Normal,Fairy,450.0,90.0,120.0,75.0,60.0,60.0,45.0,1,Slow yet bulky
+253,Qwilfish,2,Normal,Water,440.0,65.0,95.0,85.0,55.0,55.0,85.0,0,Fragile sweeper
+254,Scizor,2,Normal,Bug,500.0,70.0,130.0,100.0,55.0,80.0,65.0,1,Slow yet bulky
+255,Mega Scizor,2,Normal,Bug,600.0,70.0,150.0,140.0,65.0,100.0,75.0,2,Best overall
+256,Shuckle,2,Normal,Bug,505.0,20.0,10.0,230.0,10.0,230.0,5.0,1,Slow yet bulky
+257,Heracross,2,Normal,Bug,500.0,80.0,125.0,75.0,40.0,95.0,85.0,0,Fragile sweeper
+258,Mega Heracross,2,Normal,Bug,600.0,80.0,185.0,115.0,40.0,105.0,75.0,2,Best overall
+259,Sneasel,2,Normal,Dark,430.0,55.0,95.0,55.0,35.0,75.0,115.0,0,Fragile sweeper
+260,Teddiursa,2,Normal,Normal,330.0,60.0,80.0,50.0,50.0,50.0,40.0,3,No potential for competitive
+261,Ursaring,2,Normal,Normal,500.0,90.0,130.0,75.0,75.0,75.0,55.0,1,Slow yet bulky
+262,Slugma,2,Normal,Fire,250.0,40.0,40.0,40.0,70.0,40.0,20.0,3,No potential for competitive
+263,Magcargo,2,Normal,Fire,430.0,60.0,50.0,120.0,90.0,80.0,30.0,1,Slow yet bulky
+264,Swinub,2,Normal,Ice,250.0,50.0,50.0,40.0,30.0,30.0,50.0,3,No potential for competitive
+265,Piloswine,2,Normal,Ice,450.0,100.0,100.0,80.0,60.0,60.0,50.0,1,Slow yet bulky
+266,Corsola,2,Normal,Water,410.0,65.0,55.0,95.0,65.0,95.0,35.0,1,Slow yet bulky
+267,Galarian Corsola,2,Normal,Ghost,410.0,60.0,55.0,100.0,65.0,100.0,30.0,1,Slow yet bulky
+268,Remoraid,2,Normal,Water,300.0,35.0,65.0,35.0,65.0,35.0,65.0,3,No potential for competitive
+269,Octillery,2,Normal,Water,480.0,75.0,105.0,75.0,105.0,75.0,45.0,1,Slow yet bulky
+270,Delibird,2,Normal,Ice,330.0,45.0,55.0,45.0,65.0,45.0,75.0,3,No potential for competitive
+271,Mantine,2,Normal,Water,485.0,85.0,40.0,70.0,80.0,140.0,70.0,1,Slow yet bulky
+272,Skarmory,2,Normal,Steel,465.0,65.0,80.0,140.0,40.0,70.0,70.0,1,Slow yet bulky
+273,Houndour,2,Normal,Dark,330.0,45.0,60.0,30.0,80.0,50.0,65.0,3,No potential for competitive
+274,Houndoom,2,Normal,Dark,500.0,75.0,90.0,50.0,110.0,80.0,95.0,0,Fragile sweeper
+275,Mega Houndoom,2,Normal,Dark,600.0,75.0,90.0,90.0,140.0,90.0,115.0,2,Best overall
+276,Kingdra,2,Normal,Water,540.0,75.0,95.0,95.0,95.0,95.0,85.0,2,Best overall
+277,Phanpy,2,Normal,Ground,330.0,90.0,60.0,60.0,40.0,40.0,40.0,3,No potential for competitive
+278,Donphan,2,Normal,Ground,500.0,90.0,120.0,120.0,60.0,60.0,50.0,1,Slow yet bulky
+279,Porygon2,2,Normal,Normal,515.0,85.0,80.0,90.0,105.0,95.0,60.0,1,Slow yet bulky
+280,Stantler,2,Normal,Normal,465.0,73.0,95.0,62.0,85.0,65.0,85.0,0,Fragile sweeper
+281,Smeargle,2,Normal,Normal,250.0,55.0,20.0,35.0,20.0,45.0,75.0,3,No potential for competitive
+282,Tyrogue,2,Normal,Fighting,210.0,35.0,35.0,35.0,35.0,35.0,35.0,3,No potential for competitive
+283,Hitmontop,2,Normal,Fighting,455.0,50.0,95.0,95.0,35.0,110.0,70.0,1,Slow yet bulky
+284,Smoochum,2,Normal,Ice,305.0,45.0,30.0,15.0,85.0,65.0,65.0,3,No potential for competitive
+285,Elekid,2,Normal,Electric,360.0,45.0,63.0,37.0,65.0,55.0,95.0,3,No potential for competitive
+286,Magby,2,Normal,Fire,365.0,45.0,75.0,37.0,70.0,55.0,83.0,0,Fragile sweeper
+287,Miltank,2,Normal,Normal,490.0,95.0,80.0,105.0,40.0,70.0,100.0,0,Fragile sweeper
+288,Blissey,2,Normal,Normal,540.0,255.0,10.0,10.0,75.0,135.0,55.0,0,Fragile sweeper
+289,Raikou,2,Sub Legendary,Electric,580.0,90.0,85.0,75.0,115.0,100.0,115.0,2,Best overall
+290,Entei,2,Sub Legendary,Fire,580.0,115.0,115.0,85.0,90.0,75.0,100.0,2,Best overall
+291,Suicune,2,Sub Legendary,Water,580.0,100.0,75.0,115.0,90.0,115.0,85.0,2,Best overall
+292,Larvitar,2,Normal,Rock,300.0,50.0,64.0,50.0,45.0,50.0,41.0,3,No potential for competitive
+293,Pupitar,2,Normal,Rock,410.0,70.0,84.0,70.0,65.0,70.0,51.0,1,Slow yet bulky
+294,Tyranitar,2,Normal,Rock,600.0,100.0,134.0,110.0,95.0,100.0,61.0,2,Best overall
+295,Mega Tyranitar,2,Normal,Rock,700.0,100.0,164.0,150.0,95.0,120.0,71.0,2,Best overall
+296,Lugia,2,Legendary,Psychic,680.0,106.0,90.0,130.0,90.0,154.0,110.0,2,Best overall
+297,Ho-oh,2,Legendary,Fire,680.0,106.0,130.0,90.0,110.0,154.0,90.0,2,Best overall
+298,Celebi,2,Mythical,Psychic,600.0,100.0,100.0,100.0,100.0,100.0,100.0,2,Best overall
+299,Treecko,3,Normal,Grass,310.0,40.0,45.0,35.0,65.0,55.0,70.0,3,No potential for competitive
+300,Grovyle,3,Normal,Grass,405.0,50.0,65.0,45.0,85.0,65.0,95.0,0,Fragile sweeper
+301,Sceptile,3,Normal,Grass,530.0,70.0,85.0,65.0,105.0,85.0,120.0,0,Fragile sweeper
+302,Mega Sceptile,3,Normal,Grass,630.0,70.0,110.0,75.0,145.0,85.0,145.0,2,Best overall
+303,Torchic,3,Normal,Fire,310.0,45.0,60.0,40.0,70.0,50.0,45.0,3,No potential for competitive
+304,Combusken,3,Normal,Fire,405.0,60.0,85.0,60.0,85.0,60.0,55.0,0,Fragile sweeper
+305,Blaziken,3,Normal,Fire,530.0,80.0,120.0,70.0,110.0,70.0,80.0,2,Best overall
+306,Mega Blaziken,3,Normal,Fire,630.0,80.0,160.0,80.0,130.0,80.0,100.0,2,Best overall
+307,Mudkip,3,Normal,Water,310.0,50.0,70.0,50.0,50.0,50.0,40.0,3,No potential for competitive
+308,Marshtomp,3,Normal,Water,405.0,70.0,85.0,70.0,60.0,70.0,50.0,1,Slow yet bulky
+309,Swampert,3,Normal,Water,535.0,100.0,110.0,90.0,85.0,90.0,60.0,1,Slow yet bulky
+310,Mega Swampert,3,Normal,Water,635.0,100.0,150.0,110.0,95.0,110.0,70.0,2,Best overall
+311,Poochyena,3,Normal,Dark,220.0,35.0,55.0,35.0,30.0,30.0,35.0,3,No potential for competitive
+312,Mightyena,3,Normal,Dark,420.0,70.0,90.0,70.0,60.0,60.0,70.0,0,Fragile sweeper
+313,Zigzagoon,3,Normal,Normal,240.0,38.0,30.0,41.0,30.0,41.0,60.0,3,No potential for competitive
+314,Galarian Zigzagoon,3,Normal,Dark,240.0,38.0,30.0,41.0,30.0,41.0,60.0,3,No potential for competitive
+315,Linoone,3,Normal,Normal,420.0,78.0,70.0,61.0,50.0,61.0,100.0,0,Fragile sweeper
+316,Galarian Linoone,3,Normal,Dark,420.0,78.0,70.0,61.0,50.0,61.0,100.0,0,Fragile sweeper
+317,Wurmple,3,Normal,Bug,195.0,45.0,45.0,35.0,20.0,30.0,20.0,3,No potential for competitive
+318,Silcoon,3,Normal,Bug,205.0,50.0,35.0,55.0,25.0,25.0,15.0,3,No potential for competitive
+319,Beautifly,3,Normal,Bug,395.0,60.0,70.0,50.0,100.0,50.0,65.0,0,Fragile sweeper
+320,Cascoon,3,Normal,Bug,205.0,50.0,35.0,55.0,25.0,25.0,15.0,3,No potential for competitive
+321,Dustox,3,Normal,Bug,385.0,60.0,50.0,70.0,50.0,90.0,65.0,0,Fragile sweeper
+322,Lotad,3,Normal,Water,220.0,40.0,30.0,30.0,40.0,50.0,30.0,3,No potential for competitive
+323,Lombre,3,Normal,Water,340.0,60.0,50.0,50.0,60.0,70.0,50.0,3,No potential for competitive
+324,Ludicolo,3,Normal,Water,480.0,80.0,70.0,70.0,90.0,100.0,70.0,0,Fragile sweeper
+325,Seedot,3,Normal,Grass,220.0,40.0,40.0,50.0,30.0,30.0,30.0,3,No potential for competitive
+326,Nuzleaf,3,Normal,Grass,340.0,70.0,70.0,40.0,60.0,40.0,60.0,3,No potential for competitive
+327,Shiftry,3,Normal,Grass,480.0,90.0,100.0,60.0,90.0,60.0,80.0,0,Fragile sweeper
+328,Taillow,3,Normal,Normal,270.0,40.0,55.0,30.0,30.0,30.0,85.0,3,No potential for competitive
+329,Swellow,3,Normal,Normal,455.0,60.0,85.0,60.0,75.0,50.0,125.0,0,Fragile sweeper
+330,Wingull,3,Normal,Water,270.0,40.0,30.0,30.0,55.0,30.0,85.0,3,No potential for competitive
+331,Pelipper,3,Normal,Water,440.0,60.0,50.0,100.0,95.0,70.0,65.0,1,Slow yet bulky
+332,Ralts,3,Normal,Psychic,198.0,28.0,25.0,25.0,45.0,35.0,40.0,3,No potential for competitive
+333,Kirlia,3,Normal,Psychic,278.0,38.0,35.0,35.0,65.0,55.0,50.0,3,No potential for competitive
+334,Gardevoir,3,Normal,Psychic,518.0,68.0,65.0,65.0,125.0,115.0,80.0,0,Fragile sweeper
+335,Mega Gardevoir,3,Normal,Psychic,618.0,68.0,85.0,65.0,165.0,135.0,100.0,2,Best overall
+336,Surskit,3,Normal,Bug,269.0,40.0,30.0,32.0,50.0,52.0,65.0,3,No potential for competitive
+337,Masquerain,3,Normal,Bug,454.0,70.0,60.0,62.0,100.0,82.0,80.0,0,Fragile sweeper
+338,Shroomish,3,Normal,Grass,295.0,60.0,40.0,60.0,40.0,60.0,35.0,3,No potential for competitive
+339,Breloom,3,Normal,Grass,460.0,60.0,130.0,80.0,60.0,60.0,70.0,0,Fragile sweeper
+340,Slakoth,3,Normal,Normal,280.0,60.0,60.0,60.0,35.0,35.0,30.0,3,No potential for competitive
+341,Vigoroth,3,Normal,Normal,440.0,80.0,80.0,80.0,55.0,55.0,90.0,0,Fragile sweeper
+342,Slaking,3,Normal,Normal,670.0,150.0,160.0,100.0,95.0,65.0,100.0,2,Best overall
+343,Nincada,3,Normal,Bug,266.0,31.0,45.0,90.0,30.0,30.0,40.0,3,No potential for competitive
+344,Ninjask,3,Normal,Bug,456.0,61.0,90.0,45.0,50.0,50.0,160.0,0,Fragile sweeper
+345,Shedinja,3,Normal,Bug,236.0,1.0,90.0,45.0,30.0,30.0,40.0,3,No potential for competitive
+346,Whismur,3,Normal,Normal,240.0,64.0,51.0,23.0,51.0,23.0,28.0,3,No potential for competitive
+347,Loudred,3,Normal,Normal,360.0,84.0,71.0,43.0,71.0,43.0,48.0,3,No potential for competitive
+348,Exploud,3,Normal,Normal,490.0,104.0,91.0,63.0,91.0,73.0,68.0,0,Fragile sweeper
+349,Makuhita,3,Normal,Fighting,237.0,72.0,60.0,30.0,20.0,30.0,25.0,3,No potential for competitive
+350,Hariyama,3,Normal,Fighting,474.0,144.0,120.0,60.0,40.0,60.0,50.0,1,Slow yet bulky
+351,Azurill,3,Normal,Normal,190.0,50.0,20.0,40.0,20.0,40.0,20.0,3,No potential for competitive
+352,Nosepass,3,Normal,Rock,375.0,30.0,45.0,135.0,45.0,90.0,30.0,1,Slow yet bulky
+353,Skitty,3,Normal,Normal,260.0,50.0,45.0,45.0,35.0,35.0,50.0,3,No potential for competitive
+354,Delcatty,3,Normal,Normal,400.0,70.0,65.0,65.0,55.0,55.0,90.0,0,Fragile sweeper
+355,Sableye,3,Normal,Dark,380.0,50.0,75.0,75.0,65.0,65.0,50.0,1,Slow yet bulky
+356,Mega Sableye,3,Normal,Dark,480.0,50.0,85.0,125.0,85.0,115.0,20.0,1,Slow yet bulky
+357,Mawile,3,Normal,Steel,380.0,50.0,85.0,85.0,55.0,55.0,50.0,1,Slow yet bulky
+358,Mega Mawile,3,Normal,Steel,480.0,50.0,105.0,125.0,55.0,95.0,50.0,1,Slow yet bulky
+359,Aron,3,Normal,Steel,330.0,50.0,70.0,100.0,40.0,40.0,30.0,3,No potential for competitive
+360,Lairon,3,Normal,Steel,430.0,60.0,90.0,140.0,50.0,50.0,40.0,1,Slow yet bulky
+361,Aggron,3,Normal,Steel,530.0,70.0,110.0,180.0,60.0,60.0,50.0,1,Slow yet bulky
+362,Mega Aggron,3,Normal,Steel,630.0,70.0,140.0,230.0,60.0,80.0,50.0,1,Slow yet bulky
+363,Meditite,3,Normal,Fighting,280.0,30.0,40.0,55.0,40.0,55.0,60.0,3,No potential for competitive
+364,Medicham,3,Normal,Fighting,410.0,60.0,60.0,75.0,60.0,75.0,80.0,0,Fragile sweeper
+365,Mega Medicham,3,Normal,Fighting,510.0,60.0,100.0,85.0,80.0,85.0,100.0,0,Fragile sweeper
+366,Electrike,3,Normal,Electric,295.0,40.0,45.0,40.0,65.0,40.0,65.0,3,No potential for competitive
+367,Manectric,3,Normal,Electric,475.0,70.0,75.0,60.0,105.0,60.0,105.0,0,Fragile sweeper
+368,Mega Manectric,3,Normal,Electric,575.0,70.0,75.0,80.0,135.0,80.0,135.0,2,Best overall
+369,Plusle,3,Normal,Electric,405.0,60.0,50.0,40.0,85.0,75.0,95.0,0,Fragile sweeper
+370,Minun,3,Normal,Electric,405.0,60.0,40.0,50.0,75.0,85.0,95.0,0,Fragile sweeper
+371,Volbeat,3,Normal,Bug,430.0,65.0,73.0,75.0,47.0,85.0,85.0,0,Fragile sweeper
+372,Illumise,3,Normal,Bug,430.0,65.0,47.0,75.0,73.0,85.0,85.0,0,Fragile sweeper
+373,Roselia,3,Normal,Grass,400.0,50.0,60.0,45.0,100.0,80.0,65.0,0,Fragile sweeper
+374,Gulpin,3,Normal,Poison,302.0,70.0,43.0,53.0,43.0,53.0,40.0,3,No potential for competitive
+375,Swalot,3,Normal,Poison,467.0,100.0,73.0,83.0,73.0,83.0,55.0,1,Slow yet bulky
+376,Carvanha,3,Normal,Water,305.0,45.0,90.0,20.0,65.0,20.0,65.0,3,No potential for competitive
+377,Sharpedo,3,Normal,Water,460.0,70.0,120.0,40.0,95.0,40.0,95.0,0,Fragile sweeper
+378,Mega Sharpedo,3,Normal,Water,560.0,70.0,140.0,70.0,110.0,65.0,105.0,2,Best overall
+379,Wailmer,3,Normal,Water,400.0,130.0,70.0,35.0,70.0,35.0,60.0,0,Fragile sweeper
+380,Wailord,3,Normal,Water,500.0,170.0,90.0,45.0,90.0,45.0,60.0,0,Fragile sweeper
+381,Numel,3,Normal,Fire,305.0,60.0,60.0,40.0,65.0,45.0,35.0,3,No potential for competitive
+382,Camerupt,3,Normal,Fire,460.0,70.0,100.0,70.0,105.0,75.0,40.0,1,Slow yet bulky
+383,Mega Camerupt,3,Normal,Fire,560.0,70.0,120.0,100.0,145.0,105.0,20.0,1,Slow yet bulky
+384,Torkoal,3,Normal,Fire,470.0,70.0,85.0,140.0,85.0,70.0,20.0,1,Slow yet bulky
+385,Spoink,3,Normal,Psychic,330.0,60.0,25.0,35.0,70.0,80.0,60.0,3,No potential for competitive
+386,Grumpig,3,Normal,Psychic,470.0,80.0,45.0,65.0,90.0,110.0,80.0,0,Fragile sweeper
+387,Spinda,3,Normal,Normal,360.0,60.0,60.0,60.0,60.0,60.0,60.0,3,No potential for competitive
+388,Trapinch,3,Normal,Ground,290.0,45.0,100.0,45.0,45.0,45.0,10.0,3,No potential for competitive
+389,Vibrava,3,Normal,Ground,340.0,50.0,70.0,50.0,50.0,50.0,70.0,3,No potential for competitive
+390,Flygon,3,Normal,Ground,520.0,80.0,100.0,80.0,80.0,80.0,100.0,0,Fragile sweeper
+391,Cacnea,3,Normal,Grass,335.0,50.0,85.0,40.0,85.0,40.0,35.0,3,No potential for competitive
+392,Cacturne,3,Normal,Grass,475.0,70.0,115.0,60.0,115.0,60.0,55.0,0,Fragile sweeper
+393,Swablu,3,Normal,Normal,310.0,45.0,40.0,60.0,40.0,75.0,50.0,3,No potential for competitive
+394,Altaria,3,Normal,Dragon,490.0,75.0,70.0,90.0,70.0,105.0,80.0,1,Slow yet bulky
+395,Mega Altaria,3,Normal,Dragon,590.0,75.0,110.0,110.0,110.0,105.0,80.0,2,Best overall
+396,Zangoose,3,Normal,Normal,458.0,73.0,115.0,60.0,60.0,60.0,90.0,0,Fragile sweeper
+397,Seviper,3,Normal,Poison,458.0,73.0,100.0,60.0,100.0,60.0,65.0,0,Fragile sweeper
+398,Lunatone,3,Normal,Rock,460.0,90.0,55.0,65.0,95.0,85.0,70.0,0,Fragile sweeper
+399,Solrock,3,Normal,Rock,460.0,90.0,95.0,85.0,55.0,65.0,70.0,1,Slow yet bulky
+400,Barboach,3,Normal,Water,288.0,50.0,48.0,43.0,46.0,41.0,60.0,3,No potential for competitive
+401,Whiscash,3,Normal,Water,468.0,110.0,78.0,73.0,76.0,71.0,60.0,1,Slow yet bulky
+402,Corphish,3,Normal,Water,308.0,43.0,80.0,65.0,50.0,35.0,35.0,3,No potential for competitive
+403,Crawdaunt,3,Normal,Water,468.0,63.0,120.0,85.0,90.0,55.0,55.0,1,Slow yet bulky
+404,Baltoy,3,Normal,Ground,300.0,40.0,40.0,55.0,40.0,70.0,55.0,3,No potential for competitive
+405,Claydol,3,Normal,Ground,500.0,60.0,70.0,105.0,70.0,120.0,75.0,1,Slow yet bulky
+406,Lileep,3,Normal,Rock,355.0,66.0,41.0,77.0,61.0,87.0,23.0,1,Slow yet bulky
+407,Cradily,3,Normal,Rock,495.0,86.0,81.0,97.0,81.0,107.0,43.0,1,Slow yet bulky
+408,Anorith,3,Normal,Rock,355.0,45.0,95.0,50.0,40.0,50.0,75.0,3,No potential for competitive
+409,Armaldo,3,Normal,Rock,495.0,75.0,125.0,100.0,70.0,80.0,45.0,1,Slow yet bulky
+410,Feebas,3,Normal,Water,200.0,20.0,15.0,20.0,10.0,55.0,80.0,3,No potential for competitive
+411,Milotic,3,Normal,Water,540.0,95.0,60.0,79.0,100.0,125.0,81.0,2,Best overall
+412,Castform,3,Normal,Normal,420.0,70.0,70.0,70.0,70.0,70.0,70.0,0,Fragile sweeper
+413,Castform Sunny Form,3,Normal,Fire,420.0,70.0,70.0,70.0,70.0,70.0,70.0,0,Fragile sweeper
+414,Castform Rainy Form,3,Normal,Water,420.0,70.0,70.0,70.0,70.0,70.0,70.0,0,Fragile sweeper
+415,Castform Snowy Form,3,Normal,Ice,420.0,70.0,70.0,70.0,70.0,70.0,70.0,0,Fragile sweeper
+416,Kecleon,3,Normal,Normal,440.0,60.0,90.0,70.0,60.0,120.0,40.0,1,Slow yet bulky
+417,Shuppet,3,Normal,Ghost,295.0,44.0,75.0,35.0,63.0,33.0,45.0,3,No potential for competitive
+418,Banette,3,Normal,Ghost,455.0,64.0,115.0,65.0,83.0,63.0,65.0,0,Fragile sweeper
+419,Mega Banette,3,Normal,Ghost,555.0,64.0,165.0,75.0,93.0,83.0,75.0,2,Best overall
+420,Duskull,3,Normal,Ghost,295.0,20.0,40.0,90.0,30.0,90.0,25.0,3,No potential for competitive
+421,Dusclops,3,Normal,Ghost,455.0,40.0,70.0,130.0,60.0,130.0,25.0,1,Slow yet bulky
+422,Tropius,3,Normal,Grass,460.0,99.0,68.0,83.0,72.0,87.0,51.0,1,Slow yet bulky
+423,Chimecho,3,Normal,Psychic,455.0,75.0,50.0,80.0,95.0,90.0,65.0,1,Slow yet bulky
+424,Absol,3,Normal,Dark,465.0,65.0,130.0,60.0,75.0,60.0,75.0,0,Fragile sweeper
+425,Mega Absol,3,Normal,Dark,565.0,65.0,150.0,60.0,115.0,60.0,115.0,2,Best overall
+426,Wynaut,3,Normal,Psychic,260.0,95.0,23.0,48.0,23.0,48.0,23.0,3,No potential for competitive
+427,Snorunt,3,Normal,Ice,300.0,50.0,50.0,50.0,50.0,50.0,50.0,3,No potential for competitive
+428,Glalie,3,Normal,Ice,480.0,80.0,80.0,80.0,80.0,80.0,80.0,0,Fragile sweeper
+429,Mega Glalie,3,Normal,Ice,580.0,80.0,120.0,80.0,120.0,80.0,100.0,2,Best overall
+430,Spheal,3,Normal,Ice,290.0,70.0,40.0,50.0,55.0,50.0,25.0,3,No potential for competitive
+431,Sealeo,3,Normal,Ice,410.0,90.0,60.0,70.0,75.0,70.0,45.0,1,Slow yet bulky
+432,Walrein,3,Normal,Ice,530.0,110.0,80.0,90.0,95.0,90.0,65.0,1,Slow yet bulky
+433,Clamperl,3,Normal,Water,345.0,35.0,64.0,85.0,74.0,55.0,32.0,3,No potential for competitive
+434,Huntail,3,Normal,Water,485.0,55.0,104.0,105.0,94.0,75.0,52.0,1,Slow yet bulky
+435,Gorebyss,3,Normal,Water,485.0,55.0,84.0,105.0,114.0,75.0,52.0,1,Slow yet bulky
+436,Relicanth,3,Normal,Water,485.0,100.0,90.0,130.0,45.0,65.0,55.0,1,Slow yet bulky
+437,Luvdisc,3,Normal,Water,330.0,43.0,30.0,55.0,40.0,65.0,97.0,3,No potential for competitive
+438,Bagon,3,Normal,Dragon,300.0,45.0,75.0,60.0,40.0,30.0,50.0,3,No potential for competitive
+439,Shelgon,3,Normal,Dragon,420.0,65.0,95.0,100.0,60.0,50.0,50.0,1,Slow yet bulky
+440,Salamence,3,Normal,Dragon,600.0,95.0,135.0,80.0,110.0,80.0,100.0,2,Best overall
+441,Mega Salamence,3,Normal,Dragon,700.0,95.0,145.0,130.0,120.0,90.0,120.0,2,Best overall
+442,Beldum,3,Normal,Steel,300.0,40.0,55.0,80.0,35.0,60.0,30.0,3,No potential for competitive
+443,Metang,3,Normal,Steel,420.0,60.0,75.0,100.0,55.0,80.0,50.0,1,Slow yet bulky
+444,Metagross,3,Normal,Steel,600.0,80.0,135.0,130.0,95.0,90.0,70.0,2,Best overall
+445,Mega Metagross,3,Normal,Steel,700.0,80.0,145.0,150.0,105.0,110.0,110.0,2,Best overall
+446,Regirock,3,Sub Legendary,Rock,580.0,80.0,100.0,200.0,50.0,100.0,50.0,1,Slow yet bulky
+447,Regice,3,Sub Legendary,Ice,580.0,80.0,50.0,100.0,100.0,200.0,50.0,1,Slow yet bulky
+448,Registeel,3,Sub Legendary,Steel,580.0,80.0,75.0,150.0,75.0,150.0,50.0,1,Slow yet bulky
+449,Latias,3,Sub Legendary,Dragon,600.0,80.0,80.0,90.0,110.0,130.0,110.0,2,Best overall
+450,Mega Latias,3,Sub Legendary,Dragon,700.0,80.0,100.0,120.0,140.0,150.0,110.0,2,Best overall
+451,Latios,3,Sub Legendary,Dragon,600.0,80.0,90.0,80.0,130.0,110.0,110.0,2,Best overall
+452,Mega Latios,3,Sub Legendary,Dragon,700.0,80.0,130.0,100.0,160.0,120.0,110.0,2,Best overall
+453,Kyogre,3,Legendary,Water,670.0,100.0,100.0,90.0,150.0,140.0,90.0,2,Best overall
+454,Primal Kyogre,3,Legendary,Water,770.0,100.0,150.0,90.0,180.0,160.0,90.0,2,Best overall
+455,Groudon,3,Legendary,Ground,670.0,100.0,150.0,140.0,100.0,90.0,90.0,2,Best overall
+456,Primal Groudon,3,Legendary,Ground,770.0,100.0,180.0,160.0,150.0,90.0,90.0,2,Best overall
+457,Rayquaza,3,Legendary,Dragon,680.0,105.0,150.0,90.0,150.0,90.0,95.0,2,Best overall
+458,Mega Rayquaza,3,Legendary,Dragon,780.0,105.0,180.0,100.0,180.0,100.0,115.0,2,Best overall
+459,Jirachi,3,Mythical,Steel,600.0,100.0,100.0,100.0,100.0,100.0,100.0,2,Best overall
+460,Deoxys Normal Forme,3,Mythical,Psychic,600.0,50.0,150.0,50.0,150.0,50.0,150.0,2,Best overall
+461,Deoxys Attack Forme,3,Mythical,Psychic,600.0,50.0,180.0,20.0,180.0,20.0,150.0,0,Fragile sweeper
+462,Deoxys Defense Forme,3,Mythical,Psychic,600.0,50.0,70.0,160.0,70.0,160.0,90.0,1,Slow yet bulky
+463,Deoxys Speed Forme,3,Mythical,Psychic,600.0,50.0,95.0,90.0,95.0,90.0,180.0,2,Best overall
+464,Turtwig,4,Normal,Grass,318.0,55.0,68.0,64.0,45.0,55.0,31.0,3,No potential for competitive
+465,Grotle,4,Normal,Grass,405.0,75.0,89.0,85.0,55.0,65.0,36.0,1,Slow yet bulky
+466,Torterra,4,Normal,Grass,525.0,95.0,109.0,105.0,75.0,85.0,56.0,1,Slow yet bulky
+467,Chimchar,4,Normal,Fire,309.0,44.0,58.0,44.0,58.0,44.0,61.0,3,No potential for competitive
+468,Monferno,4,Normal,Fire,405.0,64.0,78.0,52.0,78.0,52.0,81.0,0,Fragile sweeper
+469,Infernape,4,Normal,Fire,534.0,76.0,104.0,71.0,104.0,71.0,108.0,0,Fragile sweeper
+470,Piplup,4,Normal,Water,314.0,53.0,51.0,53.0,61.0,56.0,40.0,3,No potential for competitive
+471,Prinplup,4,Normal,Water,405.0,64.0,66.0,68.0,81.0,76.0,50.0,1,Slow yet bulky
+472,Empoleon,4,Normal,Water,530.0,84.0,86.0,88.0,111.0,101.0,60.0,1,Slow yet bulky
+473,Starly,4,Normal,Normal,245.0,40.0,55.0,30.0,30.0,30.0,60.0,3,No potential for competitive
+474,Staravia,4,Normal,Normal,340.0,55.0,75.0,50.0,40.0,40.0,80.0,3,No potential for competitive
+475,Staraptor,4,Normal,Normal,485.0,85.0,120.0,70.0,50.0,60.0,100.0,0,Fragile sweeper
+476,Bidoof,4,Normal,Normal,250.0,59.0,45.0,40.0,35.0,40.0,31.0,3,No potential for competitive
+477,Bibarel,4,Normal,Normal,410.0,79.0,85.0,60.0,55.0,60.0,71.0,0,Fragile sweeper
+478,Kricketot,4,Normal,Bug,194.0,37.0,25.0,41.0,25.0,41.0,25.0,3,No potential for competitive
+479,Kricketune,4,Normal,Bug,384.0,77.0,85.0,51.0,55.0,51.0,65.0,0,Fragile sweeper
+480,Shinx,4,Normal,Electric,263.0,45.0,65.0,34.0,40.0,34.0,45.0,3,No potential for competitive
+481,Luxio,4,Normal,Electric,363.0,60.0,85.0,49.0,60.0,49.0,60.0,3,No potential for competitive
+482,Luxray,4,Normal,Electric,523.0,80.0,120.0,79.0,95.0,79.0,70.0,2,Best overall
+483,Budew,4,Normal,Grass,280.0,40.0,30.0,35.0,50.0,70.0,55.0,3,No potential for competitive
+484,Roserade,4,Normal,Grass,515.0,60.0,70.0,65.0,125.0,105.0,90.0,0,Fragile sweeper
+485,Cranidos,4,Normal,Rock,350.0,67.0,125.0,40.0,30.0,30.0,58.0,3,No potential for competitive
+486,Rampardos,4,Normal,Rock,495.0,97.0,165.0,60.0,65.0,50.0,58.0,0,Fragile sweeper
+487,Shieldon,4,Normal,Rock,350.0,30.0,42.0,118.0,42.0,88.0,30.0,3,No potential for competitive
+488,Bastiodon,4,Normal,Rock,495.0,60.0,52.0,168.0,47.0,138.0,30.0,1,Slow yet bulky
+489,Burmy,4,Normal,Bug,224.0,40.0,29.0,45.0,29.0,45.0,36.0,3,No potential for competitive
+490,Wormadam Plant Cloak,4,Normal,Bug,424.0,60.0,59.0,85.0,79.0,105.0,36.0,1,Slow yet bulky
+491,Wormadam Sandy Cloak,4,Normal,Bug,424.0,60.0,79.0,105.0,59.0,85.0,36.0,1,Slow yet bulky
+492,Wormadam Trash Cloak,4,Normal,Bug,424.0,60.0,69.0,95.0,69.0,95.0,36.0,1,Slow yet bulky
+493,Mothim,4,Normal,Bug,424.0,70.0,94.0,50.0,94.0,50.0,66.0,0,Fragile sweeper
+494,Combee,4,Normal,Bug,244.0,30.0,30.0,42.0,30.0,42.0,70.0,3,No potential for competitive
+495,Vespiquen,4,Normal,Bug,474.0,70.0,80.0,102.0,80.0,102.0,40.0,1,Slow yet bulky
+496,Pachirisu,4,Normal,Electric,405.0,60.0,45.0,70.0,45.0,90.0,95.0,0,Fragile sweeper
+497,Buizel,4,Normal,Water,330.0,55.0,65.0,35.0,60.0,30.0,85.0,3,No potential for competitive
+498,Floatzel,4,Normal,Water,495.0,85.0,105.0,55.0,85.0,50.0,115.0,0,Fragile sweeper
+499,Cherubi,4,Normal,Grass,275.0,45.0,35.0,45.0,62.0,53.0,35.0,3,No potential for competitive
+500,Cherrim,4,Normal,Grass,450.0,70.0,60.0,70.0,87.0,78.0,85.0,0,Fragile sweeper
+501,Shellos,4,Normal,Water,325.0,76.0,48.0,48.0,57.0,62.0,34.0,3,No potential for competitive
+502,Gastrodon,4,Normal,Water,475.0,111.0,83.0,68.0,92.0,82.0,39.0,1,Slow yet bulky
+503,Ambipom,4,Normal,Normal,482.0,75.0,100.0,66.0,60.0,66.0,115.0,0,Fragile sweeper
+504,Drifloon,4,Normal,Ghost,348.0,90.0,50.0,34.0,60.0,44.0,70.0,3,No potential for competitive
+505,Drifblim,4,Normal,Ghost,498.0,150.0,80.0,44.0,90.0,54.0,80.0,0,Fragile sweeper
+506,Buneary,4,Normal,Normal,350.0,55.0,66.0,44.0,44.0,56.0,85.0,3,No potential for competitive
+507,Lopunny,4,Normal,Normal,480.0,65.0,76.0,84.0,54.0,96.0,105.0,0,Fragile sweeper
+508,Mega Lopunny,4,Normal,Normal,580.0,65.0,136.0,94.0,54.0,96.0,135.0,2,Best overall
+509,Mismagius,4,Normal,Ghost,495.0,60.0,60.0,60.0,105.0,105.0,105.0,0,Fragile sweeper
+510,Honchkrow,4,Normal,Dark,505.0,100.0,125.0,52.0,105.0,52.0,71.0,0,Fragile sweeper
+511,Glameow,4,Normal,Normal,310.0,49.0,55.0,42.0,42.0,37.0,85.0,3,No potential for competitive
+512,Purugly,4,Normal,Normal,452.0,71.0,82.0,64.0,64.0,59.0,112.0,0,Fragile sweeper
+513,Chingling,4,Normal,Psychic,285.0,45.0,30.0,50.0,65.0,50.0,45.0,3,No potential for competitive
+514,Stunky,4,Normal,Poison,329.0,63.0,63.0,47.0,41.0,41.0,74.0,3,No potential for competitive
+515,Skuntank,4,Normal,Poison,479.0,103.0,93.0,67.0,71.0,61.0,84.0,0,Fragile sweeper
+516,Bronzor,4,Normal,Steel,300.0,57.0,24.0,86.0,24.0,86.0,23.0,3,No potential for competitive
+517,Bronzong,4,Normal,Steel,500.0,67.0,89.0,116.0,79.0,116.0,33.0,1,Slow yet bulky
+518,Bonsly,4,Normal,Rock,290.0,50.0,80.0,95.0,10.0,45.0,10.0,3,No potential for competitive
+519,Mime Jr.,4,Normal,Psychic,310.0,20.0,25.0,45.0,70.0,90.0,60.0,3,No potential for competitive
+520,Happiny,4,Normal,Normal,220.0,100.0,5.0,5.0,15.0,65.0,30.0,3,No potential for competitive
+521,Chatot,4,Normal,Normal,411.0,76.0,65.0,45.0,92.0,42.0,91.0,0,Fragile sweeper
+522,Spiritomb,4,Normal,Ghost,485.0,50.0,92.0,108.0,92.0,108.0,35.0,1,Slow yet bulky
+523,Gible,4,Normal,Dragon,300.0,58.0,70.0,45.0,40.0,45.0,42.0,3,No potential for competitive
+524,Gabite,4,Normal,Dragon,410.0,68.0,90.0,65.0,50.0,55.0,82.0,0,Fragile sweeper
+525,Garchomp,4,Normal,Dragon,600.0,108.0,130.0,95.0,80.0,85.0,102.0,2,Best overall
+526,Mega Garchomp,4,Normal,Dragon,700.0,108.0,170.0,115.0,120.0,95.0,92.0,2,Best overall
+527,Munchlax,4,Normal,Normal,390.0,135.0,85.0,40.0,40.0,85.0,5.0,1,Slow yet bulky
+528,Riolu,4,Normal,Fighting,285.0,40.0,70.0,40.0,35.0,40.0,60.0,3,No potential for competitive
+529,Lucario,4,Normal,Fighting,525.0,70.0,110.0,70.0,115.0,70.0,90.0,0,Fragile sweeper
+530,Mega Lucario,4,Normal,Fighting,625.0,70.0,145.0,88.0,140.0,70.0,112.0,2,Best overall
+531,Hippopotas,4,Normal,Ground,330.0,68.0,72.0,78.0,38.0,42.0,32.0,3,No potential for competitive
+532,Hippowdon,4,Normal,Ground,525.0,108.0,112.0,118.0,68.0,72.0,47.0,1,Slow yet bulky
+533,Skorupi,4,Normal,Poison,330.0,40.0,50.0,90.0,30.0,55.0,65.0,3,No potential for competitive
+534,Drapion,4,Normal,Poison,500.0,70.0,90.0,110.0,60.0,75.0,95.0,0,Fragile sweeper
+535,Croagunk,4,Normal,Poison,300.0,48.0,61.0,40.0,61.0,40.0,50.0,3,No potential for competitive
+536,Toxicroak,4,Normal,Poison,490.0,83.0,106.0,65.0,86.0,65.0,85.0,0,Fragile sweeper
+537,Carnivine,4,Normal,Grass,454.0,74.0,100.0,72.0,90.0,72.0,46.0,1,Slow yet bulky
+538,Finneon,4,Normal,Water,330.0,49.0,49.0,56.0,49.0,61.0,66.0,3,No potential for competitive
+539,Lumineon,4,Normal,Water,460.0,69.0,69.0,76.0,69.0,86.0,91.0,0,Fragile sweeper
+540,Mantyke,4,Normal,Water,345.0,45.0,20.0,50.0,60.0,120.0,50.0,3,No potential for competitive
+541,Snover,4,Normal,Grass,334.0,60.0,62.0,50.0,62.0,60.0,40.0,3,No potential for competitive
+542,Abomasnow,4,Normal,Grass,494.0,90.0,92.0,75.0,92.0,85.0,60.0,1,Slow yet bulky
+543,Mega Abomasnow,4,Normal,Grass,594.0,90.0,132.0,105.0,132.0,105.0,30.0,1,Slow yet bulky
+544,Weavile,4,Normal,Dark,510.0,70.0,120.0,65.0,45.0,85.0,125.0,0,Fragile sweeper
+545,Magnezone,4,Normal,Electric,535.0,70.0,70.0,115.0,130.0,90.0,60.0,1,Slow yet bulky
+546,Lickilicky,4,Normal,Normal,515.0,110.0,85.0,95.0,80.0,95.0,50.0,1,Slow yet bulky
+547,Rhyperior,4,Normal,Ground,535.0,115.0,140.0,130.0,55.0,55.0,40.0,1,Slow yet bulky
+548,Tangrowth,4,Normal,Grass,535.0,100.0,100.0,125.0,110.0,50.0,50.0,1,Slow yet bulky
+549,Electivire,4,Normal,Electric,540.0,75.0,123.0,67.0,95.0,85.0,95.0,2,Best overall
+550,Magmortar,4,Normal,Fire,540.0,75.0,95.0,67.0,125.0,95.0,83.0,2,Best overall
+551,Togekiss,4,Normal,Fairy,545.0,85.0,50.0,95.0,120.0,115.0,80.0,2,Best overall
+552,Yanmega,4,Normal,Bug,515.0,86.0,76.0,86.0,116.0,56.0,95.0,0,Fragile sweeper
+553,Leafeon,4,Normal,Grass,525.0,65.0,110.0,130.0,60.0,65.0,95.0,1,Slow yet bulky
+554,Glaceon,4,Normal,Ice,525.0,65.0,60.0,110.0,130.0,95.0,65.0,1,Slow yet bulky
+555,Gliscor,4,Normal,Ground,510.0,75.0,95.0,125.0,45.0,75.0,95.0,1,Slow yet bulky
+556,Mamoswine,4,Normal,Ice,530.0,110.0,130.0,80.0,70.0,60.0,80.0,2,Best overall
+557,Porygon-Z,4,Normal,Normal,535.0,85.0,80.0,70.0,135.0,75.0,90.0,2,Best overall
+558,Gallade,4,Normal,Psychic,518.0,68.0,125.0,65.0,65.0,115.0,80.0,0,Fragile sweeper
+559,Mega Gallade,4,Normal,Psychic,618.0,68.0,165.0,95.0,65.0,115.0,110.0,2,Best overall
+560,Probopass,4,Normal,Rock,525.0,60.0,55.0,145.0,75.0,150.0,40.0,1,Slow yet bulky
+561,Dusknoir,4,Normal,Ghost,525.0,45.0,100.0,135.0,65.0,135.0,45.0,1,Slow yet bulky
+562,Froslass,4,Normal,Ice,480.0,70.0,80.0,70.0,80.0,70.0,110.0,0,Fragile sweeper
+563,Rotom,4,Normal,Electric,440.0,50.0,50.0,77.0,95.0,77.0,91.0,0,Fragile sweeper
+564,Heat Rotom,4,Normal,Electric,520.0,50.0,65.0,107.0,105.0,107.0,86.0,1,Slow yet bulky
+565,Wash Rotom,4,Normal,Electric,520.0,50.0,65.0,107.0,105.0,107.0,86.0,1,Slow yet bulky
+566,Frost Rotom,4,Normal,Electric,520.0,50.0,65.0,107.0,105.0,107.0,86.0,1,Slow yet bulky
+567,Fan Rotom,4,Normal,Electric,520.0,50.0,65.0,107.0,105.0,107.0,86.0,1,Slow yet bulky
+568,Mow Rotom,4,Normal,Electric,520.0,50.0,65.0,107.0,105.0,107.0,86.0,1,Slow yet bulky
+569,Uxie,4,Sub Legendary,Psychic,580.0,75.0,75.0,130.0,75.0,130.0,95.0,2,Best overall
+570,Mesprit,4,Sub Legendary,Psychic,580.0,80.0,105.0,105.0,105.0,105.0,80.0,2,Best overall
+571,Azelf,4,Sub Legendary,Psychic,580.0,75.0,125.0,70.0,125.0,70.0,115.0,2,Best overall
+572,Dialga,4,Legendary,Steel,680.0,100.0,120.0,120.0,150.0,100.0,90.0,2,Best overall
+573,Palkia,4,Legendary,Water,680.0,90.0,120.0,100.0,150.0,120.0,100.0,2,Best overall
+574,Heatran,4,Sub Legendary,Fire,600.0,91.0,90.0,106.0,130.0,106.0,77.0,2,Best overall
+575,Regigigas,4,Sub Legendary,Normal,670.0,110.0,160.0,110.0,80.0,110.0,100.0,2,Best overall
+576,Giratina Altered Forme,4,Legendary,Ghost,680.0,150.0,100.0,120.0,100.0,120.0,90.0,2,Best overall
+577,Giratina Origin Forme,4,Legendary,Ghost,680.0,150.0,120.0,100.0,120.0,100.0,90.0,2,Best overall
+578,Cresselia,4,Sub Legendary,Psychic,600.0,120.0,70.0,120.0,75.0,130.0,85.0,2,Best overall
+579,Phione,4,Mythical,Water,480.0,80.0,80.0,80.0,80.0,80.0,80.0,0,Fragile sweeper
+580,Manaphy,4,Mythical,Water,600.0,100.0,100.0,100.0,100.0,100.0,100.0,2,Best overall
+581,Darkrai,4,Mythical,Dark,600.0,70.0,90.0,90.0,135.0,90.0,125.0,2,Best overall
+582,Shaymin Land Forme,4,Mythical,Grass,600.0,100.0,100.0,100.0,100.0,100.0,100.0,2,Best overall
+583,Shaymin Sky Forme,4,Mythical,Grass,600.0,100.0,103.0,75.0,120.0,75.0,127.0,2,Best overall
+584,Arceus,4,Mythical,Normal,720.0,120.0,120.0,120.0,120.0,120.0,120.0,2,Best overall
+585,Victini,5,Mythical,Psychic,600.0,100.0,100.0,100.0,100.0,100.0,100.0,2,Best overall
+586,Snivy,5,Normal,Grass,308.0,45.0,45.0,55.0,45.0,55.0,63.0,3,No potential for competitive
+587,Servine,5,Normal,Grass,413.0,60.0,60.0,75.0,60.0,75.0,83.0,0,Fragile sweeper
+588,Serperior,5,Normal,Grass,528.0,75.0,75.0,95.0,75.0,95.0,113.0,0,Fragile sweeper
+589,Tepig,5,Normal,Fire,308.0,65.0,63.0,45.0,45.0,45.0,45.0,3,No potential for competitive
+590,Pignite,5,Normal,Fire,418.0,90.0,93.0,55.0,70.0,55.0,55.0,0,Fragile sweeper
+591,Emboar,5,Normal,Fire,528.0,110.0,123.0,65.0,100.0,65.0,65.0,2,Best overall
+592,Oshawott,5,Normal,Water,308.0,55.0,55.0,45.0,63.0,45.0,45.0,3,No potential for competitive
+593,Dewott,5,Normal,Water,413.0,75.0,75.0,60.0,83.0,60.0,60.0,0,Fragile sweeper
+594,Samurott,5,Normal,Water,528.0,95.0,100.0,85.0,108.0,70.0,70.0,2,Best overall
+595,Patrat,5,Normal,Normal,255.0,45.0,55.0,39.0,35.0,39.0,42.0,3,No potential for competitive
+596,Watchog,5,Normal,Normal,420.0,60.0,85.0,69.0,60.0,69.0,77.0,0,Fragile sweeper
+597,Lillipup,5,Normal,Normal,275.0,45.0,60.0,45.0,25.0,45.0,55.0,3,No potential for competitive
+598,Herdier,5,Normal,Normal,370.0,65.0,80.0,65.0,35.0,65.0,60.0,3,No potential for competitive
+599,Stoutland,5,Normal,Normal,500.0,85.0,110.0,90.0,45.0,90.0,80.0,1,Slow yet bulky
+600,Purrloin,5,Normal,Dark,281.0,41.0,50.0,37.0,50.0,37.0,66.0,3,No potential for competitive
+601,Liepard,5,Normal,Dark,446.0,64.0,88.0,50.0,88.0,50.0,106.0,0,Fragile sweeper
+602,Pansage,5,Normal,Grass,316.0,50.0,53.0,48.0,53.0,48.0,64.0,3,No potential for competitive
+603,Simisage,5,Normal,Grass,498.0,75.0,98.0,63.0,98.0,63.0,101.0,0,Fragile sweeper
+604,Pansear,5,Normal,Fire,316.0,50.0,53.0,48.0,53.0,48.0,64.0,3,No potential for competitive
+605,Simisear,5,Normal,Fire,498.0,75.0,98.0,63.0,98.0,63.0,101.0,0,Fragile sweeper
+606,Panpour,5,Normal,Water,316.0,50.0,53.0,48.0,53.0,48.0,64.0,3,No potential for competitive
+607,Simipour,5,Normal,Water,498.0,75.0,98.0,63.0,98.0,63.0,101.0,0,Fragile sweeper
+608,Munna,5,Normal,Psychic,292.0,76.0,25.0,45.0,67.0,55.0,24.0,3,No potential for competitive
+609,Musharna,5,Normal,Psychic,487.0,116.0,55.0,85.0,107.0,95.0,29.0,1,Slow yet bulky
+610,Pidove,5,Normal,Normal,264.0,50.0,55.0,50.0,36.0,30.0,43.0,3,No potential for competitive
+611,Tranquill,5,Normal,Normal,358.0,62.0,77.0,62.0,50.0,42.0,65.0,3,No potential for competitive
+612,Unfezant,5,Normal,Normal,488.0,80.0,115.0,80.0,65.0,55.0,93.0,0,Fragile sweeper
+613,Blitzle,5,Normal,Electric,295.0,45.0,60.0,32.0,50.0,32.0,76.0,3,No potential for competitive
+614,Zebstrika,5,Normal,Electric,497.0,75.0,100.0,63.0,80.0,63.0,116.0,0,Fragile sweeper
+615,Roggenrola,5,Normal,Rock,280.0,55.0,75.0,85.0,25.0,25.0,15.0,3,No potential for competitive
+616,Boldore,5,Normal,Rock,390.0,70.0,105.0,105.0,50.0,40.0,20.0,1,Slow yet bulky
+617,Gigalith,5,Normal,Rock,515.0,85.0,135.0,130.0,60.0,80.0,25.0,1,Slow yet bulky
+618,Woobat,5,Normal,Psychic,323.0,65.0,45.0,43.0,55.0,43.0,72.0,3,No potential for competitive
+619,Swoobat,5,Normal,Psychic,425.0,67.0,57.0,55.0,77.0,55.0,114.0,0,Fragile sweeper
+620,Drilbur,5,Normal,Ground,328.0,60.0,85.0,40.0,30.0,45.0,68.0,3,No potential for competitive
+621,Excadrill,5,Normal,Ground,508.0,110.0,135.0,60.0,50.0,65.0,88.0,0,Fragile sweeper
+622,Audino,5,Normal,Normal,445.0,103.0,60.0,86.0,60.0,86.0,50.0,1,Slow yet bulky
+623,Mega Audino,5,Normal,Normal,545.0,103.0,60.0,126.0,80.0,126.0,50.0,1,Slow yet bulky
+624,Timburr,5,Normal,Fighting,305.0,75.0,80.0,55.0,25.0,35.0,35.0,3,No potential for competitive
+625,Gurdurr,5,Normal,Fighting,405.0,85.0,105.0,85.0,40.0,50.0,40.0,1,Slow yet bulky
+626,Conkeldurr,5,Normal,Fighting,505.0,105.0,140.0,95.0,55.0,65.0,45.0,1,Slow yet bulky
+627,Tympole,5,Normal,Water,294.0,50.0,50.0,40.0,50.0,40.0,64.0,3,No potential for competitive
+628,Palpitoad,5,Normal,Water,384.0,75.0,65.0,55.0,65.0,55.0,69.0,0,Fragile sweeper
+629,Seismitoad,5,Normal,Water,509.0,105.0,95.0,75.0,85.0,75.0,74.0,0,Fragile sweeper
+630,Throh,5,Normal,Fighting,465.0,120.0,100.0,85.0,30.0,85.0,45.0,1,Slow yet bulky
+631,Sawk,5,Normal,Fighting,465.0,75.0,125.0,75.0,30.0,75.0,85.0,0,Fragile sweeper
+632,Sewaddle,5,Normal,Bug,310.0,45.0,53.0,70.0,40.0,60.0,42.0,3,No potential for competitive
+633,Swadloon,5,Normal,Bug,380.0,55.0,63.0,90.0,50.0,80.0,42.0,1,Slow yet bulky
+634,Leavanny,5,Normal,Bug,500.0,75.0,103.0,80.0,70.0,80.0,92.0,0,Fragile sweeper
+635,Venipede,5,Normal,Bug,260.0,30.0,45.0,59.0,30.0,39.0,57.0,3,No potential for competitive
+636,Whirlipede,5,Normal,Bug,360.0,40.0,55.0,99.0,40.0,79.0,47.0,3,No potential for competitive
+637,Scolipede,5,Normal,Bug,485.0,60.0,100.0,89.0,55.0,69.0,112.0,0,Fragile sweeper
+638,Cottonee,5,Normal,Grass,280.0,40.0,27.0,60.0,37.0,50.0,66.0,3,No potential for competitive
+639,Whimsicott,5,Normal,Grass,480.0,60.0,67.0,85.0,77.0,75.0,116.0,0,Fragile sweeper
+640,Petilil,5,Normal,Grass,280.0,45.0,35.0,50.0,70.0,50.0,30.0,3,No potential for competitive
+641,Lilligant,5,Normal,Grass,480.0,70.0,60.0,75.0,110.0,75.0,90.0,0,Fragile sweeper
+642,Basculin Red-Striped Form,5,Normal,Water,460.0,70.0,92.0,65.0,80.0,55.0,98.0,0,Fragile sweeper
+643,Basculin Blue-Striped Form,5,Normal,Water,460.0,70.0,92.0,65.0,80.0,55.0,98.0,0,Fragile sweeper
+644,Sandile,5,Normal,Ground,292.0,50.0,72.0,35.0,35.0,35.0,65.0,3,No potential for competitive
+645,Krokorok,5,Normal,Ground,351.0,60.0,82.0,45.0,45.0,45.0,74.0,3,No potential for competitive
+646,Krookodile,5,Normal,Ground,519.0,95.0,117.0,80.0,65.0,70.0,92.0,0,Fragile sweeper
+647,Darumaka,5,Normal,Fire,315.0,70.0,90.0,45.0,15.0,45.0,50.0,3,No potential for competitive
+648,Galarian Darumaka,5,Normal,Ice,315.0,70.0,90.0,45.0,15.0,45.0,50.0,3,No potential for competitive
+649,Darmanitan Standard Mode,5,Normal,Fire,480.0,105.0,140.0,55.0,30.0,55.0,95.0,0,Fragile sweeper
+650,Darmanitan Zen Mode,5,Normal,Fire,540.0,105.0,30.0,105.0,140.0,105.0,55.0,1,Slow yet bulky
+651,Darmanitan Galarian Standard Mode,5,Normal,Ice,480.0,105.0,140.0,55.0,30.0,55.0,95.0,0,Fragile sweeper
+652,Darmanitan Galarian Zen Mode,5,Normal,Ice,540.0,105.0,160.0,55.0,30.0,55.0,135.0,0,Fragile sweeper
+653,Maractus,5,Normal,Grass,461.0,75.0,86.0,67.0,106.0,67.0,60.0,0,Fragile sweeper
+654,Dwebble,5,Normal,Bug,325.0,50.0,65.0,85.0,35.0,35.0,55.0,3,No potential for competitive
+655,Crustle,5,Normal,Bug,485.0,70.0,105.0,125.0,65.0,75.0,45.0,1,Slow yet bulky
+656,Scraggy,5,Normal,Dark,348.0,50.0,75.0,70.0,35.0,70.0,48.0,3,No potential for competitive
+657,Scrafty,5,Normal,Dark,488.0,65.0,90.0,115.0,45.0,115.0,58.0,1,Slow yet bulky
+658,Sigilyph,5,Normal,Psychic,490.0,72.0,58.0,80.0,103.0,80.0,97.0,0,Fragile sweeper
+659,Yamask,5,Normal,Ghost,303.0,38.0,30.0,85.0,55.0,65.0,30.0,3,No potential for competitive
+660,Galarian Yamask,5,Normal,Ground,303.0,38.0,55.0,85.0,30.0,65.0,30.0,3,No potential for competitive
+661,Cofagrigus,5,Normal,Ghost,483.0,58.0,50.0,145.0,95.0,105.0,30.0,1,Slow yet bulky
+662,Tirtouga,5,Normal,Water,355.0,54.0,78.0,103.0,53.0,45.0,22.0,3,No potential for competitive
+663,Carracosta,5,Normal,Water,495.0,74.0,108.0,133.0,83.0,65.0,32.0,1,Slow yet bulky
+664,Archen,5,Normal,Rock,401.0,55.0,112.0,45.0,74.0,45.0,70.0,0,Fragile sweeper
+665,Archeops,5,Normal,Rock,567.0,75.0,140.0,65.0,112.0,65.0,110.0,2,Best overall
+666,Trubbish,5,Normal,Poison,329.0,50.0,50.0,62.0,40.0,62.0,65.0,3,No potential for competitive
+667,Garbodor,5,Normal,Poison,474.0,80.0,95.0,82.0,60.0,82.0,75.0,1,Slow yet bulky
+668,Zorua,5,Normal,Dark,330.0,40.0,65.0,40.0,80.0,40.0,65.0,3,No potential for competitive
+669,Zoroark,5,Normal,Dark,510.0,60.0,105.0,60.0,120.0,60.0,105.0,0,Fragile sweeper
+670,Minccino,5,Normal,Normal,300.0,55.0,50.0,40.0,40.0,40.0,75.0,3,No potential for competitive
+671,Cinccino,5,Normal,Normal,470.0,75.0,95.0,60.0,65.0,60.0,115.0,0,Fragile sweeper
+672,Gothita,5,Normal,Psychic,290.0,45.0,30.0,50.0,55.0,65.0,45.0,3,No potential for competitive
+673,Gothorita,5,Normal,Psychic,390.0,60.0,45.0,70.0,75.0,85.0,55.0,1,Slow yet bulky
+674,Gothitelle,5,Normal,Psychic,490.0,70.0,55.0,95.0,95.0,110.0,65.0,1,Slow yet bulky
+675,Solosis,5,Normal,Psychic,290.0,45.0,30.0,40.0,105.0,50.0,20.0,3,No potential for competitive
+676,Duosion,5,Normal,Psychic,370.0,65.0,40.0,50.0,125.0,60.0,30.0,3,No potential for competitive
+677,Reuniclus,5,Normal,Psychic,490.0,110.0,65.0,75.0,125.0,85.0,30.0,1,Slow yet bulky
+678,Ducklett,5,Normal,Water,305.0,62.0,44.0,50.0,44.0,50.0,55.0,3,No potential for competitive
+679,Swanna,5,Normal,Water,473.0,75.0,87.0,63.0,87.0,63.0,98.0,0,Fragile sweeper
+680,Vanillite,5,Normal,Ice,305.0,36.0,50.0,50.0,65.0,60.0,44.0,3,No potential for competitive
+681,Vanillish,5,Normal,Ice,395.0,51.0,65.0,65.0,80.0,75.0,59.0,0,Fragile sweeper
+682,Vanilluxe,5,Normal,Ice,535.0,71.0,95.0,85.0,110.0,95.0,79.0,2,Best overall
+683,Deerling,5,Normal,Normal,335.0,60.0,60.0,50.0,40.0,50.0,75.0,3,No potential for competitive
+684,Sawsbuck,5,Normal,Normal,475.0,80.0,100.0,70.0,60.0,70.0,95.0,0,Fragile sweeper
+685,Emolga,5,Normal,Electric,428.0,55.0,75.0,60.0,75.0,60.0,103.0,0,Fragile sweeper
+686,Karrablast,5,Normal,Bug,315.0,50.0,75.0,45.0,40.0,45.0,60.0,3,No potential for competitive
+687,Escavalier,5,Normal,Bug,495.0,70.0,135.0,105.0,60.0,105.0,20.0,1,Slow yet bulky
+688,Foongus,5,Normal,Grass,294.0,69.0,55.0,45.0,55.0,55.0,15.0,3,No potential for competitive
+689,Amoonguss,5,Normal,Grass,464.0,114.0,85.0,70.0,85.0,80.0,30.0,1,Slow yet bulky
+690,Frillish,5,Normal,Water,335.0,55.0,40.0,50.0,65.0,85.0,40.0,3,No potential for competitive
+691,Jellicent,5,Normal,Water,480.0,100.0,60.0,70.0,85.0,105.0,60.0,1,Slow yet bulky
+692,Alomomola,5,Normal,Water,470.0,165.0,75.0,80.0,40.0,45.0,65.0,1,Slow yet bulky
+693,Joltik,5,Normal,Bug,319.0,50.0,47.0,50.0,57.0,50.0,65.0,3,No potential for competitive
+694,Galvantula,5,Normal,Bug,472.0,70.0,77.0,60.0,97.0,60.0,108.0,0,Fragile sweeper
+695,Ferroseed,5,Normal,Grass,305.0,44.0,50.0,91.0,24.0,86.0,10.0,3,No potential for competitive
+696,Ferrothorn,5,Normal,Grass,489.0,74.0,94.0,131.0,54.0,116.0,20.0,1,Slow yet bulky
+697,Klink,5,Normal,Steel,300.0,40.0,55.0,70.0,45.0,60.0,30.0,3,No potential for competitive
+698,Klang,5,Normal,Steel,440.0,60.0,80.0,95.0,70.0,85.0,50.0,1,Slow yet bulky
+699,Klinklang,5,Normal,Steel,520.0,60.0,100.0,115.0,70.0,85.0,90.0,1,Slow yet bulky
+700,Tynamo,5,Normal,Electric,275.0,35.0,55.0,40.0,45.0,40.0,60.0,3,No potential for competitive
+701,Eelektrik,5,Normal,Electric,405.0,65.0,85.0,70.0,75.0,70.0,40.0,1,Slow yet bulky
+702,Eelektross,5,Normal,Electric,515.0,85.0,115.0,80.0,105.0,80.0,50.0,1,Slow yet bulky
+703,Elgyem,5,Normal,Psychic,335.0,55.0,55.0,55.0,85.0,55.0,30.0,3,No potential for competitive
+704,Beheeyem,5,Normal,Psychic,485.0,75.0,75.0,75.0,125.0,95.0,40.0,1,Slow yet bulky
+705,Litwick,5,Normal,Ghost,275.0,50.0,30.0,55.0,65.0,55.0,20.0,3,No potential for competitive
+706,Lampent,5,Normal,Ghost,370.0,60.0,40.0,60.0,95.0,60.0,55.0,3,No potential for competitive
+707,Chandelure,5,Normal,Ghost,520.0,60.0,55.0,90.0,145.0,90.0,80.0,0,Fragile sweeper
+708,Axew,5,Normal,Dragon,320.0,46.0,87.0,60.0,30.0,40.0,57.0,3,No potential for competitive
+709,Fraxure,5,Normal,Dragon,410.0,66.0,117.0,70.0,40.0,50.0,67.0,0,Fragile sweeper
+710,Haxorus,5,Normal,Dragon,540.0,76.0,147.0,90.0,60.0,70.0,97.0,2,Best overall
+711,Cubchoo,5,Normal,Ice,305.0,55.0,70.0,40.0,60.0,40.0,40.0,3,No potential for competitive
+712,Beartic,5,Normal,Ice,505.0,95.0,130.0,80.0,70.0,80.0,50.0,1,Slow yet bulky
+713,Cryogonal,5,Normal,Ice,515.0,80.0,50.0,50.0,95.0,135.0,105.0,0,Fragile sweeper
+714,Shelmet,5,Normal,Bug,305.0,50.0,40.0,85.0,40.0,65.0,25.0,3,No potential for competitive
+715,Accelgor,5,Normal,Bug,495.0,80.0,70.0,40.0,100.0,60.0,145.0,0,Fragile sweeper
+716,Stunfisk,5,Normal,Ground,471.0,109.0,66.0,84.0,81.0,99.0,32.0,1,Slow yet bulky
+717,Galarian Stunfisk,5,Normal,Ground,471.0,109.0,81.0,99.0,66.0,84.0,32.0,1,Slow yet bulky
+718,Mienfoo,5,Normal,Fighting,350.0,45.0,85.0,50.0,55.0,50.0,65.0,3,No potential for competitive
+719,Mienshao,5,Normal,Fighting,510.0,65.0,125.0,60.0,95.0,60.0,105.0,0,Fragile sweeper
+720,Druddigon,5,Normal,Dragon,485.0,77.0,120.0,90.0,60.0,90.0,48.0,1,Slow yet bulky
+721,Golett,5,Normal,Ground,303.0,59.0,74.0,50.0,35.0,50.0,35.0,3,No potential for competitive
+722,Golurk,5,Normal,Ground,483.0,89.0,124.0,80.0,55.0,80.0,55.0,1,Slow yet bulky
+723,Pawniard,5,Normal,Dark,340.0,45.0,85.0,70.0,40.0,40.0,60.0,3,No potential for competitive
+724,Bisharp,5,Normal,Dark,490.0,65.0,125.0,100.0,60.0,70.0,70.0,1,Slow yet bulky
+725,Bouffalant,5,Normal,Normal,490.0,95.0,110.0,95.0,40.0,95.0,55.0,1,Slow yet bulky
+726,Rufflet,5,Normal,Normal,350.0,70.0,83.0,50.0,37.0,50.0,60.0,3,No potential for competitive
+727,Braviary,5,Normal,Normal,510.0,100.0,123.0,75.0,57.0,75.0,80.0,0,Fragile sweeper
+728,Vullaby,5,Normal,Dark,370.0,70.0,55.0,75.0,45.0,65.0,60.0,3,No potential for competitive
+729,Mandibuzz,5,Normal,Dark,510.0,110.0,65.0,105.0,55.0,95.0,80.0,1,Slow yet bulky
+730,Heatmor,5,Normal,Fire,484.0,85.0,97.0,66.0,105.0,66.0,65.0,0,Fragile sweeper
+731,Durant,5,Normal,Bug,484.0,58.0,109.0,112.0,48.0,48.0,109.0,0,Fragile sweeper
+732,Deino,5,Normal,Dark,300.0,52.0,65.0,50.0,45.0,50.0,38.0,3,No potential for competitive
+733,Zweilous,5,Normal,Dark,420.0,72.0,85.0,70.0,65.0,70.0,58.0,1,Slow yet bulky
+734,Hydreigon,5,Normal,Dark,600.0,92.0,105.0,90.0,125.0,90.0,98.0,2,Best overall
+735,Larvesta,5,Normal,Bug,360.0,55.0,85.0,55.0,50.0,55.0,60.0,3,No potential for competitive
+736,Volcarona,5,Normal,Bug,550.0,85.0,60.0,65.0,135.0,105.0,100.0,2,Best overall
+737,Cobalion,5,Sub Legendary,Steel,580.0,91.0,90.0,129.0,90.0,72.0,108.0,2,Best overall
+738,Terrakion,5,Sub Legendary,Rock,580.0,91.0,129.0,90.0,72.0,90.0,108.0,2,Best overall
+739,Virizion,5,Sub Legendary,Grass,580.0,91.0,90.0,72.0,90.0,129.0,108.0,2,Best overall
+740,Tornadus Incarnate Forme,5,Sub Legendary,Flying,580.0,79.0,115.0,70.0,125.0,80.0,111.0,2,Best overall
+741,Tornadus Therian Forme,5,Sub Legendary,Flying,580.0,79.0,100.0,80.0,110.0,90.0,121.0,2,Best overall
+742,Thundurus Incarnate Forme,5,Sub Legendary,Electric,580.0,79.0,115.0,70.0,125.0,80.0,111.0,2,Best overall
+743,Thundurus Therian Forme,5,Sub Legendary,Electric,580.0,79.0,105.0,70.0,145.0,80.0,101.0,2,Best overall
+744,Reshiram,5,Legendary,Dragon,680.0,100.0,120.0,100.0,150.0,120.0,90.0,2,Best overall
+745,Zekrom,5,Legendary,Dragon,680.0,100.0,150.0,120.0,120.0,100.0,90.0,2,Best overall
+746,Landorus Incarnate Forme,5,Sub Legendary,Ground,600.0,89.0,125.0,90.0,115.0,80.0,101.0,2,Best overall
+747,Landorus Therian Forme,5,Sub Legendary,Ground,600.0,89.0,145.0,90.0,105.0,80.0,91.0,2,Best overall
+748,Kyurem,5,Legendary,Dragon,660.0,125.0,130.0,90.0,130.0,90.0,95.0,2,Best overall
+749,Black Kyurem,5,Legendary,Dragon,700.0,125.0,170.0,100.0,120.0,90.0,95.0,2,Best overall
+750,White Kyurem,5,Legendary,Dragon,700.0,125.0,120.0,90.0,170.0,100.0,95.0,2,Best overall
+751,Keldeo Ordinary Forme,5,Mythical,Water,580.0,91.0,72.0,90.0,129.0,90.0,108.0,2,Best overall
+752,Keldeo Resolute Forme,5,Mythical,Water,580.0,91.0,72.0,90.0,129.0,90.0,108.0,2,Best overall
+753,Meloetta Aria Forme,5,Mythical,Normal,600.0,100.0,77.0,77.0,128.0,128.0,90.0,2,Best overall
+754,Meloetta Pirouette Forme,5,Mythical,Normal,600.0,100.0,128.0,90.0,77.0,77.0,128.0,2,Best overall
+755,Genesect,5,Mythical,Bug,600.0,71.0,120.0,95.0,120.0,95.0,99.0,2,Best overall
+756,Chespin,6,Normal,Grass,313.0,56.0,61.0,65.0,48.0,45.0,38.0,3,No potential for competitive
+757,Quilladin,6,Normal,Grass,405.0,61.0,78.0,95.0,56.0,58.0,57.0,1,Slow yet bulky
+758,Chesnaught,6,Normal,Grass,530.0,88.0,107.0,122.0,74.0,75.0,64.0,1,Slow yet bulky
+759,Fennekin,6,Normal,Fire,307.0,40.0,45.0,40.0,62.0,60.0,60.0,3,No potential for competitive
+760,Braixen,6,Normal,Fire,409.0,59.0,59.0,58.0,90.0,70.0,73.0,0,Fragile sweeper
+761,Delphox,6,Normal,Fire,534.0,75.0,69.0,72.0,114.0,100.0,104.0,0,Fragile sweeper
+762,Froakie,6,Normal,Water,314.0,41.0,56.0,40.0,62.0,44.0,71.0,3,No potential for competitive
+763,Frogadier,6,Normal,Water,405.0,54.0,63.0,52.0,83.0,56.0,97.0,0,Fragile sweeper
+764,Greninja,6,Normal,Water,530.0,72.0,95.0,67.0,103.0,71.0,122.0,0,Fragile sweeper
+765,Ash-Greninja,6,Normal,Water,640.0,72.0,145.0,67.0,153.0,71.0,132.0,2,Best overall
+766,Bunnelby,6,Normal,Normal,237.0,38.0,36.0,38.0,32.0,36.0,57.0,3,No potential for competitive
+767,Diggersby,6,Normal,Normal,423.0,85.0,56.0,77.0,50.0,77.0,78.0,0,Fragile sweeper
+768,Fletchling,6,Normal,Normal,278.0,45.0,50.0,43.0,40.0,38.0,62.0,3,No potential for competitive
+769,Fletchinder,6,Normal,Fire,382.0,62.0,73.0,55.0,56.0,52.0,84.0,0,Fragile sweeper
+770,Talonflame,6,Normal,Fire,499.0,78.0,81.0,71.0,74.0,69.0,126.0,0,Fragile sweeper
+771,Scatterbug,6,Normal,Bug,200.0,38.0,35.0,40.0,27.0,25.0,35.0,3,No potential for competitive
+772,Spewpa,6,Normal,Bug,213.0,45.0,22.0,60.0,27.0,30.0,29.0,3,No potential for competitive
+773,Vivillon,6,Normal,Bug,411.0,80.0,52.0,50.0,90.0,50.0,89.0,0,Fragile sweeper
+774,Litleo,6,Normal,Fire,369.0,62.0,50.0,58.0,73.0,54.0,72.0,0,Fragile sweeper
+775,Pyroar,6,Normal,Fire,507.0,86.0,68.0,72.0,109.0,66.0,106.0,0,Fragile sweeper
+776,Flabébé,6,Normal,Fairy,303.0,44.0,38.0,39.0,61.0,79.0,42.0,3,No potential for competitive
+777,Floette,6,Normal,Fairy,371.0,54.0,45.0,47.0,75.0,98.0,52.0,3,No potential for competitive
+778,Florges,6,Normal,Fairy,552.0,78.0,65.0,68.0,112.0,154.0,75.0,2,Best overall
+779,Skiddo,6,Normal,Grass,350.0,66.0,65.0,48.0,62.0,57.0,52.0,3,No potential for competitive
+780,Gogoat,6,Normal,Grass,531.0,123.0,100.0,62.0,97.0,81.0,68.0,2,Best overall
+781,Pancham,6,Normal,Fighting,348.0,67.0,82.0,62.0,46.0,48.0,43.0,3,No potential for competitive
+782,Pangoro,6,Normal,Fighting,495.0,95.0,124.0,78.0,69.0,71.0,58.0,1,Slow yet bulky
+783,Furfrou,6,Normal,Normal,472.0,75.0,80.0,60.0,65.0,90.0,102.0,0,Fragile sweeper
+784,Espurr,6,Normal,Psychic,355.0,62.0,48.0,54.0,63.0,60.0,68.0,3,No potential for competitive
+785,Meowstic Male,6,Normal,Psychic,466.0,74.0,48.0,76.0,83.0,81.0,104.0,0,Fragile sweeper
+786,Meowstic Female,6,Normal,Psychic,466.0,74.0,48.0,76.0,83.0,81.0,104.0,0,Fragile sweeper
+787,Honedge,6,Normal,Steel,325.0,45.0,80.0,100.0,35.0,37.0,28.0,3,No potential for competitive
+788,Doublade,6,Normal,Steel,448.0,59.0,110.0,150.0,45.0,49.0,35.0,1,Slow yet bulky
+789,Aegislash Blade Forme,6,Normal,Steel,520.0,60.0,150.0,50.0,150.0,50.0,60.0,0,Fragile sweeper
+790,Aegislash Shield Forme,6,Normal,Steel,520.0,60.0,50.0,150.0,50.0,150.0,60.0,1,Slow yet bulky
+791,Spritzee,6,Normal,Fairy,341.0,78.0,52.0,60.0,63.0,65.0,23.0,3,No potential for competitive
+792,Aromatisse,6,Normal,Fairy,462.0,101.0,72.0,72.0,99.0,89.0,29.0,1,Slow yet bulky
+793,Swirlix,6,Normal,Fairy,341.0,62.0,48.0,66.0,59.0,57.0,49.0,3,No potential for competitive
+794,Slurpuff,6,Normal,Fairy,480.0,82.0,80.0,86.0,85.0,75.0,72.0,1,Slow yet bulky
+795,Inkay,6,Normal,Dark,288.0,53.0,54.0,53.0,37.0,46.0,45.0,3,No potential for competitive
+796,Malamar,6,Normal,Dark,482.0,86.0,92.0,88.0,68.0,75.0,73.0,1,Slow yet bulky
+797,Binacle,6,Normal,Rock,306.0,42.0,52.0,67.0,39.0,56.0,50.0,3,No potential for competitive
+798,Barbaracle,6,Normal,Rock,500.0,72.0,105.0,115.0,54.0,86.0,68.0,1,Slow yet bulky
+799,Skrelp,6,Normal,Poison,320.0,50.0,60.0,60.0,60.0,60.0,30.0,3,No potential for competitive
+800,Dragalge,6,Normal,Poison,494.0,65.0,75.0,90.0,97.0,123.0,44.0,1,Slow yet bulky
+801,Clauncher,6,Normal,Water,330.0,50.0,53.0,62.0,58.0,63.0,44.0,3,No potential for competitive
+802,Clawitzer,6,Normal,Water,500.0,71.0,73.0,88.0,120.0,89.0,59.0,1,Slow yet bulky
+803,Helioptile,6,Normal,Electric,289.0,44.0,38.0,33.0,61.0,43.0,70.0,3,No potential for competitive
+804,Heliolisk,6,Normal,Electric,481.0,62.0,55.0,52.0,109.0,94.0,109.0,0,Fragile sweeper
+805,Tyrunt,6,Normal,Rock,362.0,58.0,89.0,77.0,45.0,45.0,48.0,3,No potential for competitive
+806,Tyrantrum,6,Normal,Rock,521.0,82.0,121.0,119.0,69.0,59.0,71.0,1,Slow yet bulky
+807,Amaura,6,Normal,Rock,362.0,77.0,59.0,50.0,67.0,63.0,46.0,3,No potential for competitive
+808,Aurorus,6,Normal,Rock,521.0,123.0,77.0,72.0,99.0,92.0,58.0,1,Slow yet bulky
+809,Sylveon,6,Normal,Fairy,525.0,95.0,65.0,65.0,110.0,130.0,60.0,1,Slow yet bulky
+810,Hawlucha,6,Normal,Fighting,500.0,78.0,92.0,75.0,74.0,63.0,118.0,0,Fragile sweeper
+811,Dedenne,6,Normal,Electric,431.0,67.0,58.0,57.0,81.0,67.0,101.0,0,Fragile sweeper
+812,Carbink,6,Normal,Rock,500.0,50.0,50.0,150.0,50.0,150.0,50.0,1,Slow yet bulky
+813,Goomy,6,Normal,Dragon,300.0,45.0,50.0,35.0,55.0,75.0,40.0,3,No potential for competitive
+814,Sliggoo,6,Normal,Dragon,452.0,68.0,75.0,53.0,83.0,113.0,60.0,0,Fragile sweeper
+815,Goodra,6,Normal,Dragon,600.0,90.0,100.0,70.0,110.0,150.0,80.0,2,Best overall
+816,Klefki,6,Normal,Steel,470.0,57.0,80.0,91.0,80.0,87.0,75.0,1,Slow yet bulky
+817,Phantump,6,Normal,Ghost,309.0,43.0,70.0,48.0,50.0,60.0,38.0,3,No potential for competitive
+818,Trevenant,6,Normal,Ghost,474.0,85.0,110.0,76.0,65.0,82.0,56.0,1,Slow yet bulky
+819,Pumpkaboo Average Size,6,Normal,Ghost,335.0,49.0,66.0,70.0,44.0,55.0,51.0,3,No potential for competitive
+820,Pumpkaboo Small Size,6,Normal,Ghost,335.0,44.0,66.0,70.0,44.0,55.0,56.0,3,No potential for competitive
+821,Pumpkaboo Large Size,6,Normal,Ghost,335.0,54.0,66.0,70.0,44.0,55.0,46.0,3,No potential for competitive
+822,Pumpkaboo Super Size,6,Normal,Ghost,335.0,59.0,66.0,70.0,44.0,55.0,41.0,3,No potential for competitive
+823,Gourgeist Average Size,6,Normal,Ghost,494.0,65.0,90.0,122.0,58.0,75.0,84.0,1,Slow yet bulky
+824,Gourgeist Small Size,6,Normal,Ghost,494.0,55.0,85.0,122.0,58.0,75.0,99.0,0,Fragile sweeper
+825,Gourgeist Large Size,6,Normal,Ghost,494.0,75.0,95.0,122.0,58.0,75.0,69.0,1,Slow yet bulky
+826,Gourgeist Super Size,6,Normal,Ghost,494.0,85.0,100.0,122.0,58.0,75.0,54.0,1,Slow yet bulky
+827,Bergmite,6,Normal,Ice,304.0,55.0,69.0,85.0,32.0,35.0,28.0,3,No potential for competitive
+828,Avalugg,6,Normal,Ice,514.0,95.0,117.0,184.0,44.0,46.0,28.0,1,Slow yet bulky
+829,Noibat,6,Normal,Flying,245.0,40.0,30.0,35.0,45.0,40.0,55.0,3,No potential for competitive
+830,Noivern,6,Normal,Flying,535.0,85.0,70.0,80.0,97.0,80.0,123.0,0,Fragile sweeper
+831,Xerneas,6,Legendary,Fairy,680.0,126.0,131.0,95.0,131.0,98.0,99.0,2,Best overall
+832,Yveltal,6,Legendary,Dark,680.0,126.0,131.0,95.0,131.0,98.0,99.0,2,Best overall
+833,Zygarde 50% Forme,6,Legendary,Dragon,600.0,108.0,100.0,121.0,81.0,95.0,95.0,2,Best overall
+834,Zygarde 10% Forme,6,Legendary,Dragon,486.0,54.0,100.0,71.0,61.0,85.0,115.0,0,Fragile sweeper
+835,Zygarde Complete Forme,6,Legendary,Dragon,708.0,216.0,100.0,121.0,91.0,95.0,85.0,2,Best overall
+836,Diancie,6,Mythical,Rock,600.0,50.0,100.0,150.0,100.0,150.0,50.0,1,Slow yet bulky
+837,Mega Diancie,6,Mythical,Rock,700.0,50.0,160.0,110.0,160.0,110.0,110.0,2,Best overall
+838,Hoopa Hoopa Confined,6,Mythical,Psychic,600.0,80.0,110.0,60.0,150.0,130.0,70.0,2,Best overall
+839,Hoopa Hoopa Unbound,6,Mythical,Psychic,680.0,80.0,160.0,60.0,170.0,130.0,80.0,2,Best overall
+840,Volcanion,6,Mythical,Fire,600.0,80.0,110.0,120.0,130.0,90.0,70.0,2,Best overall
+841,Rowlet,7,Normal,Grass,320.0,68.0,55.0,55.0,50.0,50.0,42.0,3,No potential for competitive
+842,Dartrix,7,Normal,Grass,420.0,78.0,75.0,75.0,70.0,70.0,52.0,1,Slow yet bulky
+843,Decidueye,7,Normal,Grass,530.0,78.0,107.0,75.0,100.0,100.0,70.0,2,Best overall
+844,Litten,7,Normal,Fire,320.0,45.0,65.0,40.0,60.0,40.0,70.0,3,No potential for competitive
+845,Torracat,7,Normal,Fire,420.0,65.0,85.0,50.0,80.0,50.0,90.0,0,Fragile sweeper
+846,Incineroar,7,Normal,Fire,530.0,95.0,115.0,90.0,80.0,90.0,60.0,1,Slow yet bulky
+847,Popplio,7,Normal,Water,320.0,50.0,54.0,54.0,66.0,56.0,40.0,3,No potential for competitive
+848,Brionne,7,Normal,Water,420.0,60.0,69.0,69.0,91.0,81.0,50.0,1,Slow yet bulky
+849,Primarina,7,Normal,Water,530.0,80.0,74.0,74.0,126.0,116.0,60.0,2,Best overall
+850,Pikipek,7,Normal,Normal,265.0,35.0,75.0,30.0,30.0,30.0,65.0,3,No potential for competitive
+851,Trumbeak,7,Normal,Normal,355.0,55.0,85.0,50.0,40.0,50.0,75.0,3,No potential for competitive
+852,Toucannon,7,Normal,Normal,485.0,80.0,120.0,75.0,75.0,75.0,60.0,1,Slow yet bulky
+853,Yungoos,7,Normal,Normal,253.0,48.0,70.0,30.0,30.0,30.0,45.0,3,No potential for competitive
+854,Gumshoos,7,Normal,Normal,418.0,88.0,110.0,60.0,55.0,60.0,45.0,1,Slow yet bulky
+855,Grubbin,7,Normal,Bug,300.0,47.0,62.0,45.0,55.0,45.0,46.0,3,No potential for competitive
+856,Charjabug,7,Normal,Bug,400.0,57.0,82.0,95.0,55.0,75.0,36.0,1,Slow yet bulky
+857,Vikavolt,7,Normal,Bug,500.0,77.0,70.0,90.0,145.0,75.0,43.0,1,Slow yet bulky
+858,Crabrawler,7,Normal,Fighting,338.0,47.0,82.0,57.0,42.0,47.0,63.0,3,No potential for competitive
+859,Crabominable,7,Normal,Fighting,478.0,97.0,132.0,77.0,62.0,67.0,43.0,1,Slow yet bulky
+860,Oricorio Baile Style,7,Normal,Fire,476.0,75.0,70.0,70.0,98.0,70.0,93.0,0,Fragile sweeper
+861,Oricorio Pom-Pom Style,7,Normal,Electric,476.0,75.0,70.0,70.0,98.0,70.0,93.0,0,Fragile sweeper
+862,Oricorio Pa'u Style,7,Normal,Psychic,476.0,75.0,70.0,70.0,98.0,70.0,93.0,0,Fragile sweeper
+863,Oricorio Sensu Style,7,Normal,Ghost,476.0,75.0,70.0,70.0,98.0,70.0,93.0,0,Fragile sweeper
+864,Cutiefly,7,Normal,Bug,304.0,40.0,45.0,40.0,55.0,40.0,84.0,3,No potential for competitive
+865,Ribombee,7,Normal,Bug,464.0,60.0,55.0,60.0,95.0,70.0,124.0,0,Fragile sweeper
+866,Rockruff,7,Normal,Rock,280.0,45.0,65.0,40.0,30.0,40.0,60.0,3,No potential for competitive
+867,Own Tempo Rockruff,7,Normal,Rock,280.0,45.0,65.0,40.0,30.0,40.0,60.0,3,No potential for competitive
+868,Lycanroc Midday Form,7,Normal,Rock,487.0,75.0,115.0,65.0,55.0,65.0,112.0,0,Fragile sweeper
+869,Lycanroc Midnight Form,7,Normal,Rock,487.0,85.0,115.0,75.0,55.0,75.0,82.0,0,Fragile sweeper
+870,Lycanroc Dusk Form,7,Normal,Rock,487.0,75.0,117.0,65.0,55.0,65.0,110.0,0,Fragile sweeper
+871,Wishiwashi Solo Form,7,Normal,Water,175.0,45.0,20.0,20.0,25.0,25.0,40.0,3,No potential for competitive
+872,Wishiwashi School Form,7,Normal,Water,620.0,45.0,140.0,130.0,140.0,135.0,30.0,1,Slow yet bulky
+873,Mareanie,7,Normal,Poison,305.0,50.0,53.0,62.0,43.0,52.0,45.0,3,No potential for competitive
+874,Toxapex,7,Normal,Poison,495.0,50.0,63.0,152.0,53.0,142.0,35.0,1,Slow yet bulky
+875,Mudbray,7,Normal,Ground,385.0,70.0,100.0,70.0,45.0,55.0,45.0,1,Slow yet bulky
+876,Mudsdale,7,Normal,Ground,500.0,100.0,125.0,100.0,55.0,85.0,35.0,1,Slow yet bulky
+877,Dewpider,7,Normal,Water,269.0,38.0,40.0,52.0,40.0,72.0,27.0,3,No potential for competitive
+878,Araquanid,7,Normal,Water,454.0,68.0,70.0,92.0,50.0,132.0,42.0,1,Slow yet bulky
+879,Fomantis,7,Normal,Grass,250.0,40.0,55.0,35.0,50.0,35.0,35.0,3,No potential for competitive
+880,Lurantis,7,Normal,Grass,480.0,70.0,105.0,90.0,80.0,90.0,45.0,1,Slow yet bulky
+881,Morelull,7,Normal,Grass,285.0,40.0,35.0,55.0,65.0,75.0,15.0,3,No potential for competitive
+882,Shiinotic,7,Normal,Grass,405.0,60.0,45.0,80.0,90.0,100.0,30.0,1,Slow yet bulky
+883,Salandit,7,Normal,Poison,320.0,48.0,44.0,40.0,71.0,40.0,77.0,3,No potential for competitive
+884,Salazzle,7,Normal,Poison,480.0,68.0,64.0,60.0,111.0,60.0,117.0,0,Fragile sweeper
+885,Stufful,7,Normal,Normal,340.0,70.0,75.0,50.0,45.0,50.0,50.0,3,No potential for competitive
+886,Bewear,7,Normal,Normal,500.0,120.0,125.0,80.0,55.0,60.0,60.0,1,Slow yet bulky
+887,Bounsweet,7,Normal,Grass,210.0,42.0,30.0,38.0,30.0,38.0,32.0,3,No potential for competitive
+888,Steenee,7,Normal,Grass,290.0,52.0,40.0,48.0,40.0,48.0,62.0,3,No potential for competitive
+889,Tsareena,7,Normal,Grass,510.0,72.0,120.0,98.0,50.0,98.0,72.0,1,Slow yet bulky
+890,Comfey,7,Normal,Fairy,485.0,51.0,52.0,90.0,82.0,110.0,100.0,0,Fragile sweeper
+891,Oranguru,7,Normal,Normal,490.0,90.0,60.0,80.0,90.0,110.0,60.0,1,Slow yet bulky
+892,Passimian,7,Normal,Fighting,490.0,100.0,120.0,90.0,40.0,60.0,80.0,1,Slow yet bulky
+893,Wimpod,7,Normal,Bug,230.0,25.0,35.0,40.0,20.0,30.0,80.0,3,No potential for competitive
+894,Golisopod,7,Normal,Bug,530.0,75.0,125.0,140.0,60.0,90.0,40.0,1,Slow yet bulky
+895,Sandygast,7,Normal,Ghost,320.0,55.0,55.0,80.0,70.0,45.0,15.0,3,No potential for competitive
+896,Palossand,7,Normal,Ghost,480.0,85.0,75.0,110.0,100.0,75.0,35.0,1,Slow yet bulky
+897,Pyukumuku,7,Normal,Water,410.0,55.0,60.0,130.0,30.0,130.0,5.0,1,Slow yet bulky
+898,Type: Null,7,Sub Legendary,Normal,534.0,95.0,95.0,95.0,95.0,95.0,59.0,1,Slow yet bulky
+899,Silvally,7,Sub Legendary,Normal,570.0,95.0,95.0,95.0,95.0,95.0,95.0,2,Best overall
+900,Minior Meteor Form,7,Normal,Rock,440.0,60.0,60.0,100.0,60.0,100.0,60.0,1,Slow yet bulky
+901,Minior Core Form,7,Normal,Rock,500.0,60.0,100.0,60.0,100.0,60.0,120.0,0,Fragile sweeper
+902,Komala,7,Normal,Normal,480.0,65.0,115.0,65.0,75.0,95.0,65.0,0,Fragile sweeper
+903,Turtonator,7,Normal,Fire,485.0,60.0,78.0,135.0,91.0,85.0,36.0,1,Slow yet bulky
+904,Togedemaru,7,Normal,Electric,435.0,65.0,98.0,63.0,40.0,73.0,96.0,0,Fragile sweeper
+905,Mimikyu,7,Normal,Ghost,476.0,55.0,90.0,80.0,50.0,105.0,96.0,0,Fragile sweeper
+906,Bruxish,7,Normal,Water,475.0,68.0,105.0,70.0,70.0,70.0,92.0,0,Fragile sweeper
+907,Drampa,7,Normal,Normal,485.0,78.0,60.0,85.0,135.0,91.0,36.0,1,Slow yet bulky
+908,Dhelmise,7,Normal,Ghost,517.0,70.0,131.0,100.0,86.0,90.0,40.0,1,Slow yet bulky
+909,Jangmo-o,7,Normal,Dragon,300.0,45.0,55.0,65.0,45.0,45.0,45.0,3,No potential for competitive
+910,Hakamo-o,7,Normal,Dragon,420.0,55.0,75.0,90.0,65.0,70.0,65.0,1,Slow yet bulky
+911,Kommo-o,7,Normal,Dragon,600.0,75.0,110.0,125.0,100.0,105.0,85.0,2,Best overall
+912,Tapu Koko,7,Sub Legendary,Electric,570.0,70.0,115.0,85.0,95.0,75.0,130.0,2,Best overall
+913,Tapu Lele,7,Sub Legendary,Psychic,570.0,70.0,85.0,75.0,130.0,115.0,95.0,2,Best overall
+914,Tapu Bulu,7,Sub Legendary,Grass,570.0,70.0,130.0,115.0,85.0,95.0,75.0,2,Best overall
+915,Tapu Fini,7,Sub Legendary,Water,570.0,70.0,75.0,115.0,95.0,130.0,85.0,2,Best overall
+916,Cosmog,7,Legendary,Psychic,200.0,43.0,29.0,31.0,29.0,31.0,37.0,3,No potential for competitive
+917,Cosmoem,7,Legendary,Psychic,400.0,43.0,29.0,131.0,29.0,131.0,37.0,1,Slow yet bulky
+918,Solgaleo,7,Legendary,Psychic,680.0,137.0,137.0,107.0,113.0,89.0,97.0,2,Best overall
+919,Lunala,7,Legendary,Psychic,680.0,137.0,113.0,89.0,137.0,107.0,97.0,2,Best overall
+920,Nihilego,7,Sub Legendary,Rock,570.0,109.0,53.0,47.0,127.0,131.0,103.0,2,Best overall
+921,Buzzwole,7,Sub Legendary,Bug,570.0,107.0,139.0,139.0,53.0,53.0,79.0,1,Slow yet bulky
+922,Pheromosa,7,Sub Legendary,Bug,570.0,71.0,137.0,37.0,137.0,37.0,151.0,0,Fragile sweeper
+923,Xurkitree,7,Sub Legendary,Electric,570.0,83.0,89.0,71.0,173.0,71.0,83.0,2,Best overall
+924,Celesteela,7,Sub Legendary,Steel,570.0,97.0,101.0,103.0,107.0,101.0,61.0,2,Best overall
+925,Kartana,7,Sub Legendary,Grass,570.0,59.0,181.0,131.0,59.0,31.0,109.0,0,Fragile sweeper
+926,Guzzlord,7,Sub Legendary,Dark,570.0,223.0,101.0,53.0,97.0,53.0,43.0,2,Best overall
+927,Necrozma,7,Legendary,Psychic,600.0,97.0,107.0,101.0,127.0,89.0,79.0,2,Best overall
+928,Dusk Mane Necrozma,7,Legendary,Psychic,680.0,97.0,157.0,127.0,113.0,109.0,77.0,2,Best overall
+929,Dawn Wings Necrozma,7,Legendary,Psychic,680.0,97.0,113.0,109.0,157.0,127.0,77.0,2,Best overall
+930,Ultra Necrozma,7,Legendary,Psychic,754.0,97.0,167.0,97.0,167.0,97.0,129.0,2,Best overall
+931,Magearna,7,Mythical,Steel,600.0,80.0,95.0,115.0,130.0,115.0,65.0,2,Best overall
+932,Marshadow,7,Mythical,Fighting,600.0,90.0,125.0,80.0,90.0,90.0,125.0,2,Best overall
+933,Poipole,7,Sub Legendary,Poison,420.0,67.0,73.0,67.0,73.0,67.0,73.0,0,Fragile sweeper
+934,Naganadel,7,Sub Legendary,Poison,540.0,73.0,73.0,73.0,127.0,73.0,121.0,0,Fragile sweeper
+935,Stakataka,7,Sub Legendary,Rock,570.0,61.0,131.0,211.0,53.0,101.0,13.0,1,Slow yet bulky
+936,Blacephalon,7,Sub Legendary,Fire,570.0,53.0,127.0,53.0,151.0,79.0,107.0,2,Best overall
+937,Zeraora,7,Mythical,Electric,600.0,88.0,112.0,75.0,102.0,80.0,143.0,2,Best overall
+938,Meltan,7,Mythical,Steel,300.0,46.0,65.0,65.0,55.0,35.0,34.0,3,No potential for competitive
+939,Melmetal,7,Mythical,Steel,600.0,135.0,143.0,143.0,80.0,65.0,34.0,1,Slow yet bulky
+940,Grookey,8,Normal,Grass,310.0,50.0,65.0,50.0,40.0,40.0,65.0,3,No potential for competitive
+941,Thwackey,8,Normal,Grass,420.0,70.0,85.0,70.0,55.0,60.0,80.0,0,Fragile sweeper
+942,Rillaboom,8,Normal,Grass,530.0,100.0,125.0,90.0,60.0,70.0,85.0,2,Best overall
+943,Scorbunny,8,Normal,Fire,310.0,50.0,71.0,40.0,40.0,40.0,69.0,3,No potential for competitive
+944,Raboot,8,Normal,Fire,420.0,65.0,86.0,60.0,55.0,60.0,94.0,0,Fragile sweeper
+945,Cinderace,8,Normal,Fire,530.0,80.0,116.0,75.0,65.0,75.0,119.0,0,Fragile sweeper
+946,Sobble,8,Normal,Water,310.0,50.0,40.0,40.0,70.0,40.0,70.0,3,No potential for competitive
+947,Drizzile,8,Normal,Water,420.0,65.0,60.0,55.0,95.0,55.0,90.0,0,Fragile sweeper
+948,Inteleon,8,Normal,Water,530.0,70.0,85.0,65.0,125.0,65.0,120.0,0,Fragile sweeper
+949,Skwovet,8,Normal,Normal,275.0,70.0,55.0,55.0,35.0,35.0,25.0,3,No potential for competitive
+950,Greedent,8,Normal,Normal,460.0,120.0,95.0,95.0,55.0,75.0,20.0,1,Slow yet bulky
+951,Rookidee,8,Normal,Flying,245.0,38.0,47.0,35.0,33.0,35.0,57.0,3,No potential for competitive
+952,Corvisquire,8,Normal,Flying,365.0,68.0,67.0,55.0,43.0,55.0,77.0,3,No potential for competitive
+953,Corviknight,8,Normal,Flying,495.0,98.0,87.0,105.0,53.0,85.0,67.0,1,Slow yet bulky
+954,Blipbug,8,Normal,Bug,180.0,25.0,20.0,20.0,25.0,45.0,45.0,3,No potential for competitive
+955,Dottler,8,Normal,Bug,335.0,50.0,35.0,80.0,50.0,90.0,30.0,3,No potential for competitive
+956,Orbeetle,8,Normal,Bug,505.0,60.0,45.0,110.0,80.0,120.0,90.0,1,Slow yet bulky
+957,Nickit,8,Normal,Dark,245.0,40.0,28.0,28.0,47.0,52.0,50.0,3,No potential for competitive
+958,Thievul,8,Normal,Dark,455.0,70.0,58.0,58.0,87.0,92.0,90.0,0,Fragile sweeper
+959,Gossifleur,8,Normal,Grass,250.0,40.0,40.0,60.0,40.0,60.0,10.0,3,No potential for competitive
+960,Eldegoss,8,Normal,Grass,460.0,60.0,50.0,90.0,80.0,120.0,60.0,1,Slow yet bulky
+961,Wooloo,8,Normal,Normal,270.0,42.0,40.0,55.0,40.0,45.0,48.0,3,No potential for competitive
+962,Dubwool,8,Normal,Normal,490.0,72.0,80.0,100.0,60.0,90.0,88.0,1,Slow yet bulky
+963,Chewtle,8,Normal,Water,284.0,50.0,64.0,50.0,38.0,38.0,44.0,3,No potential for competitive
+964,Drednaw,8,Normal,Water,485.0,90.0,115.0,90.0,48.0,68.0,74.0,1,Slow yet bulky
+965,Yamper,8,Normal,Electric,270.0,59.0,45.0,50.0,40.0,50.0,26.0,3,No potential for competitive
+966,Boltund,8,Normal,Electric,490.0,69.0,90.0,60.0,90.0,60.0,121.0,0,Fragile sweeper
+967,Rolycoly,8,Normal,Rock,240.0,30.0,40.0,50.0,40.0,50.0,30.0,3,No potential for competitive
+968,Carkol,8,Normal,Rock,410.0,80.0,60.0,90.0,60.0,70.0,50.0,1,Slow yet bulky
+969,Coalossal,8,Normal,Rock,510.0,110.0,80.0,120.0,80.0,90.0,30.0,1,Slow yet bulky
+970,Applin,8,Normal,Grass,260.0,40.0,40.0,80.0,40.0,40.0,20.0,3,No potential for competitive
+971,Flapple,8,Normal,Grass,485.0,70.0,110.0,80.0,95.0,60.0,70.0,0,Fragile sweeper
+972,Appletun,8,Normal,Grass,485.0,110.0,85.0,80.0,100.0,80.0,30.0,1,Slow yet bulky
+973,Silicobra,8,Normal,Ground,315.0,52.0,57.0,75.0,35.0,50.0,46.0,3,No potential for competitive
+974,Sandaconda,8,Normal,Ground,510.0,72.0,107.0,125.0,65.0,70.0,71.0,1,Slow yet bulky
+975,Cramorant,8,Normal,Flying,475.0,70.0,85.0,55.0,85.0,95.0,85.0,0,Fragile sweeper
+976,Arrokuda,8,Normal,Water,280.0,41.0,63.0,40.0,40.0,30.0,66.0,3,No potential for competitive
+977,Barraskewda,8,Normal,Water,490.0,61.0,123.0,60.0,60.0,50.0,136.0,0,Fragile sweeper
+978,Toxel,8,Normal,Electric,242.0,40.0,38.0,35.0,54.0,35.0,40.0,3,No potential for competitive
+979,Toxtricity Low Key Form,8,Normal,Electric,502.0,75.0,98.0,70.0,114.0,70.0,75.0,0,Fragile sweeper
+980,Toxtricity Amped Form,8,Normal,Electric,502.0,75.0,98.0,70.0,114.0,70.0,75.0,0,Fragile sweeper
+981,Sizzlipede,8,Normal,Fire,305.0,50.0,65.0,45.0,50.0,50.0,45.0,3,No potential for competitive
+982,Centiskorch,8,Normal,Fire,525.0,100.0,115.0,65.0,90.0,90.0,65.0,2,Best overall
+983,Clobbopus,8,Normal,Fighting,310.0,50.0,68.0,60.0,50.0,50.0,32.0,3,No potential for competitive
+984,Grapploct,8,Normal,Fighting,480.0,80.0,118.0,90.0,70.0,80.0,42.0,1,Slow yet bulky
+985,Sinistea,8,Normal,Ghost,308.0,40.0,45.0,45.0,74.0,54.0,50.0,3,No potential for competitive
+986,Polteageist,8,Normal,Ghost,508.0,60.0,65.0,65.0,134.0,114.0,70.0,0,Fragile sweeper
+987,Hatenna,8,Normal,Psychic,265.0,42.0,30.0,45.0,56.0,53.0,39.0,3,No potential for competitive
+988,Hattrem,8,Normal,Psychic,370.0,57.0,40.0,65.0,86.0,73.0,49.0,3,No potential for competitive
+989,Hatterene,8,Normal,Psychic,510.0,57.0,90.0,95.0,136.0,103.0,29.0,1,Slow yet bulky
+990,Impidimp,8,Normal,Dark,265.0,45.0,45.0,30.0,55.0,40.0,50.0,3,No potential for competitive
+991,Morgrem,8,Normal,Dark,370.0,65.0,60.0,45.0,75.0,55.0,70.0,0,Fragile sweeper
+992,Grimmsnarl,8,Normal,Dark,510.0,95.0,120.0,65.0,95.0,75.0,60.0,1,Slow yet bulky
+993,Obstagoon,8,Normal,Dark,520.0,93.0,90.0,101.0,60.0,81.0,95.0,1,Slow yet bulky
+994,Perrserker,8,Normal,Steel,440.0,70.0,110.0,100.0,50.0,60.0,50.0,1,Slow yet bulky
+995,Cursola,8,Normal,Ghost,510.0,60.0,95.0,50.0,145.0,130.0,30.0,1,Slow yet bulky
+996,Sirfetch'd,8,Normal,Fighting,507.0,62.0,135.0,95.0,68.0,82.0,65.0,1,Slow yet bulky
+997,Mr. Rime,8,Normal,Psychic,520.0,80.0,85.0,75.0,110.0,100.0,70.0,2,Best overall
+998,Runerigus,8,Normal,Ground,483.0,58.0,95.0,145.0,50.0,105.0,30.0,1,Slow yet bulky
+999,Milcery,8,Normal,Fairy,270.0,45.0,40.0,40.0,50.0,61.0,34.0,3,No potential for competitive
+1000,Alcremie,8,Normal,Fairy,495.0,65.0,60.0,75.0,110.0,121.0,64.0,1,Slow yet bulky
+1001,Falinks,8,Normal,Fighting,470.0,65.0,100.0,100.0,70.0,60.0,75.0,1,Slow yet bulky
+1002,Pincurchin,8,Normal,Electric,435.0,48.0,101.0,95.0,91.0,85.0,15.0,1,Slow yet bulky
+1003,Snom,8,Normal,Ice,185.0,30.0,25.0,35.0,45.0,30.0,20.0,3,No potential for competitive
+1004,Frosmoth,8,Normal,Ice,475.0,70.0,65.0,60.0,125.0,90.0,65.0,0,Fragile sweeper
+1005,Stonjourner,8,Normal,Rock,470.0,100.0,125.0,135.0,20.0,20.0,70.0,1,Slow yet bulky
+1006,Eiscue Ice Face,8,Normal,Ice,470.0,75.0,80.0,110.0,65.0,90.0,50.0,1,Slow yet bulky
+1007,Eiscue Noice Face,8,Normal,Ice,470.0,75.0,80.0,70.0,65.0,50.0,130.0,0,Fragile sweeper
+1008,Indeedee Male,8,Normal,Psychic,475.0,60.0,65.0,55.0,105.0,95.0,95.0,0,Fragile sweeper
+1009,Indeedee Female,8,Normal,Psychic,475.0,70.0,55.0,65.0,95.0,105.0,85.0,0,Fragile sweeper
+1010,Morpeko Full Belly Mode,8,Normal,Electric,436.0,58.0,95.0,58.0,70.0,58.0,97.0,0,Fragile sweeper
+1011,Morpeko Hangry Mode,8,Normal,Electric,436.0,58.0,95.0,58.0,70.0,58.0,97.0,0,Fragile sweeper
+1012,Cufant,8,Normal,Steel,330.0,72.0,80.0,49.0,40.0,49.0,40.0,3,No potential for competitive
+1013,Copperajah,8,Normal,Steel,500.0,122.0,130.0,69.0,80.0,69.0,30.0,1,Slow yet bulky
+1014,Dracozolt,8,Normal,Electric,505.0,90.0,100.0,90.0,80.0,70.0,75.0,1,Slow yet bulky
+1015,Arctozolt,8,Normal,Electric,505.0,90.0,100.0,90.0,90.0,80.0,55.0,1,Slow yet bulky
+1016,Dracovish,8,Normal,Water,505.0,90.0,90.0,100.0,70.0,80.0,75.0,1,Slow yet bulky
+1017,Arctovish,8,Normal,Water,505.0,90.0,90.0,100.0,80.0,90.0,55.0,1,Slow yet bulky
+1018,Duraludon,8,Normal,Steel,535.0,70.0,95.0,115.0,120.0,50.0,85.0,2,Best overall
+1019,Dreepy,8,Normal,Dragon,270.0,28.0,60.0,30.0,40.0,30.0,82.0,3,No potential for competitive
+1020,Drakloak,8,Normal,Dragon,410.0,68.0,80.0,50.0,60.0,50.0,102.0,0,Fragile sweeper
+1021,Dragapult,8,Normal,Dragon,600.0,88.0,120.0,75.0,100.0,75.0,142.0,2,Best overall
+1022,Zacian Crowned Sword,8,Legendary,Fairy,720.0,92.0,170.0,115.0,80.0,115.0,148.0,2,Best overall
+1023,Zacian Hero of Many Battles,8,Legendary,Fairy,670.0,92.0,130.0,115.0,80.0,115.0,138.0,2,Best overall
+1024,Zamazenta Crowned Shield,8,Legendary,Fighting,720.0,92.0,130.0,145.0,80.0,145.0,128.0,2,Best overall
+1025,Zamazenta Hero of Many Battles,8,Legendary,Fighting,670.0,92.0,130.0,115.0,80.0,115.0,138.0,2,Best overall
+1026,Eternatus,8,Legendary,Poison,690.0,140.0,85.0,95.0,145.0,95.0,130.0,2,Best overall
+1027,Eternatus Eternamax,8,Legendary,Poison,1125.0,255.0,115.0,250.0,125.0,250.0,130.0,2,Best overall
