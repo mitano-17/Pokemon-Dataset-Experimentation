@@ -1,9 +1,13 @@
 # Pokemon-Dataset-Experimentation
 
+A Python notebook showcasing data science techniques and experimentation using Pokemon data. Here, we use the clustering method to group Pokemon into classes depending on their stats. 
+
 This is a continuation of the project that uses the **`Complete Pokemon Dataset (Updated 16.04.21)`** dataset submitted back in the 21st of November 2022.
 
+## Dataset ##
 The link to the dataset is as follows: https://www.kaggle.com/datasets/mariotormo/complete-pokemon-dataset-updated-090420?resource=download by Mario Tormo Romero.
 
+## Methods ##
 The processes done in the first notebook are as follows: <b>📝 Dataset Description 📝, 🧽 Dataset Cleaning 🧽, 📊 Exploratory Data Analysis 📊, and 🤔 Research Question 🤔</b>. To review the first notebook, the Google Drive link can be accessed: https://drive.google.com/drive/folders/1fZw-4M6GmT9ROLmb5XPm6uyI65HDtOnq?usp=share_link
 <figure>
     <img src="https://i.pinimg.com/564x/24/d1/01/24d101849738df521f17db9701ec63d2.jpg" style="width: 80%">
